@@ -1,0 +1,705 @@
+Entity Source IDE;Entity Source Product Name;Entity Source Manufacturer Name;Entity Source Ingredients;Entity Target IDE;Entity Target Product Name;Entity Target Manufacturer Name;Entity Target Ingredients;Classification;Similarity Score
+32851;Nissin Wafer Krim Rasa Strawberry;Nissin Biscuit Indonesia, PT;;33127;Nissin Wafer Krim Rasa Pisang;Nissin Biscuit Indonesia, PT;;owl:sameAs;0.9391431556948799
+32851;Nissin Wafer Krim Rasa Strawberry;Nissin Biscuit Indonesia, PT;;33153;Nissin Krekers Krim Cream Crackers ;Nissin Biscuit Indonesia, PT;;rdfs:seeAlso;0.8642978354978357
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;22346;John Farmer Almond Pasta Mix Chunky 02;GUNANUSA ERAMANDIRI, PT;;rdfs:seeAlso;0.8643488721804513
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;22425;John Farmer Hazelnut Pasta 05;GUNANUSA ERAMANDIRI, PT;;rdfs:seeAlso;0.8692234661889835
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;22480;John Farmer Choco Hazelnut Pasta;GUNANUSA ERAMANDIRI, PT;;rdfs:seeAlso;0.8653602484472049
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;22489;John Farmer Hazelnut Butter Creamy;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9624353483328816
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;22568;John Farmer Almond Pasta 03;GUNANUSA ERAMANDIRI, PT;;rdfs:seeAlso;0.86194708994709
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;23112;John Farmer Peanut Butter Chunky 07;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9542857142857144
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;23562;John Farmer Peanut Butter Creamy 19;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9817142857142858
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;23568;John Farmer Peanut Butter Creamy 10;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9817142857142858
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;23577;John Farmer Peanut Butter Creamy 06;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9817142857142858
+23611;John Farmer Peanut Butter Creamy 27;GUNANUSA ERAMANDIRI, PT;;23586;John Farmer Peanut Butter Creamy 02;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9908571428571429
+21973;Isolated Soy Protein YP901Q;Shandong Yuwang Ecological Food Industry Co.,Ltd;;21967;Isolated Soy Protein YP901K;Shandong Yuwang Ecological Food Industry Co.,Ltd;;owl:sameAs;0.9881481481481482
+21973;Isolated Soy Protein YP901Q;Shandong Yuwang Ecological Food Industry Co.,Ltd;;21969;Isolated Soy Protein YP901M;Shandong Yuwang Ecological Food Industry Co.,Ltd;;owl:sameAs;0.9881481481481482
+21973;Isolated Soy Protein YP901Q;Shandong Yuwang Ecological Food Industry Co.,Ltd;;21970;Isolated Soy Protein YP901L;Shandong Yuwang Ecological Food Industry Co.,Ltd;;owl:sameAs;0.9881481481481482
+21973;Isolated Soy Protein YP901Q;Shandong Yuwang Ecological Food Industry Co.,Ltd;;37689;Protein Soy Concentrated YP701C;Shandong Yuwang Ecological Food Industry Co.,Ltd;;rdfs:seeAlso;0.7629072082835524
+21973;Isolated Soy Protein YP901Q;Shandong Yuwang Ecological Food Industry Co.,Ltd;;37690;Protein Soy Concentrated YP701F;Shandong Yuwang Ecological Food Industry Co.,Ltd;;rdfs:seeAlso;0.7629072082835524
+40514;SARDINES IN OIL MAXBELL;PT GEMA ISTA RAYA;;40642;SARDINES IN OIL KHOSH;PT GEMA ISTA RAYA;;owl:sameAs;0.9132091097308488
+21039;Hydrolyzed Vegetable Protein Powder HVP EB ;Baoding Way Chein Food Industrial Co.,Ltd.;;20948;Hydrolyzed Vegetable Protein Powder HVP ET ;Baoding Way Chein Food Industrial Co.,Ltd.;;owl:sameAs;0.9925581395348837
+21039;Hydrolyzed Vegetable Protein Powder HVP EB ;Baoding Way Chein Food Industrial Co.,Ltd.;;21012;Hydrolyzed Vegetable Protein Powder HVP IO ;Baoding Way Chein Food Industrial Co.,Ltd.;;owl:sameAs;0.9851162790697674
+33799;Original Love Juice Minuman Buah Apel Less Sugar ;HALE INTERNATIONAL, PT;;33813;Original Love Juice Minuman Buah Jeruk Favorit ;HALE INTERNATIONAL, PT;;owl:sameAs;0.9298564859659086
+38869;Robust Nutmeg Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;33552;Robust Garlic Oil;Prasan Solutions (India) Pvt. Ltd.;;rdfs:seeAlso;0.8620184930159354
+38869;Robust Nutmeg Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;38832;Robust Mace Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;owl:sameAs;0.9569358178053831
+38869;Robust Nutmeg Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;38941;Robust Ginger Oil;Prasan Solutions (India) Pvt. Ltd.;;rdfs:seeAlso;0.8828576300085251
+38869;Robust Nutmeg Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;38979;Robust Pink Colour;Prasan Solutions (India) Pvt. Ltd.;;rdfs:seeAlso;0.8732643202208419
+38869;Robust Nutmeg Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;39072;Robust Cassia Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;rdfs:seeAlso;0.8741687979539643
+38869;Robust Nutmeg Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;39147;Robust Yellow Paprika Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;rdfs:seeAlso;0.8670095059996885
+38869;Robust Nutmeg Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;39266;Robust Davana Oil;Prasan Solutions (India) Pvt. Ltd.;;rdfs:seeAlso;0.8630861040068203
+38869;Robust Nutmeg Oleoresin;Prasan Solutions (India) Pvt. Ltd.;;39296;Robust Purple Colour;Prasan Solutions (India) Pvt. Ltd.;;rdfs:seeAlso;0.8608198757763976
+27700;Legian Lapisse Mocca;Kelinci Mas;;27104;Legian Lapisse Cranberry;Kelinci Mas;;owl:sameAs;0.9293333333333333
+27700;Legian Lapisse Mocca;Kelinci Mas;;42407;Sewu Lapisse Mocca;Kelinci Mas;;rdfs:seeAlso;0.7822222222222224
+24794;Kimbo Sosis Sapi Lada Hitam;MADUSARI NUSAPERDANA, PT.;;16591;Fino Sosis Sapi;MADUSARI NUSAPERDANA, PT.;;rdfs:seeAlso;0.8261728395061729
+24794;Kimbo Sosis Sapi Lada Hitam;MADUSARI NUSAPERDANA, PT.;;24691;Kimbo Chatz Sosis Ikan Siap Makan Rasa Otak otak;MADUSARI NUSAPERDANA, PT.;;rdfs:seeAlso;0.8602814814814816
+24794;Kimbo Sosis Sapi Lada Hitam;MADUSARI NUSAPERDANA, PT.;;24711;Kimbo Sosis Sapi dan Ayam Rasa Hot Spicy;MADUSARI NUSAPERDANA, PT.;;owl:sameAs;0.9103817663817664
+24794;Kimbo Sosis Sapi Lada Hitam;MADUSARI NUSAPERDANA, PT.;;25324;Kimbo Sosis Ayam Siap Makan Rasa Hot Spicy;MADUSARI NUSAPERDANA, PT.;;rdfs:seeAlso;0.8881862433862435
+24794;Kimbo Sosis Sapi Lada Hitam;MADUSARI NUSAPERDANA, PT.;;47597;Vigo Sosis Sapi Panjang isi 30;MADUSARI NUSAPERDANA, PT.;;rdfs:seeAlso;0.8044444444444445
+37404;Pusan Muffin Rasa Pandan;PUSAN MANIS MULIA, PT;;37744;Pusan Muffin;PUSAN MANIS MULIA, PT;;owl:sameAs;0.9200000000000002
+17029;Fortius Wafer Krim Rasa Cokelat dan Vanila Chocolate Vanilla Wafer Cream;Intim Harmonis Foods Industri, PT;;17004;Fortius Wafer Krim Rasa Cokelat dan Kacang Chocolate Peanut Wafer Cream;Intim Harmonis Foods Industri, PT;;owl:sameAs;0.9439475743348984
+20718;Haldin Mangosteen Rind Glycolic Extract;Haldin Pacific Semesta,PT;;20104;Haldin Yohimbee Glycolic Extract;Haldin Pacific Semesta,PT;;rdfs:seeAlso;0.8915605658709107
+20718;Haldin Mangosteen Rind Glycolic Extract;Haldin Pacific Semesta,PT;;20272;Haldin Mangosteen SD Powde;Haldin Pacific Semesta,PT;;owl:sameAs;0.9056410256410257
+20718;Haldin Mangosteen Rind Glycolic Extract;Haldin Pacific Semesta,PT;;20467;Haldin Garlic Powder Extract;Haldin Pacific Semesta,PT;;rdfs:seeAlso;0.8710212454212456
+9697;COCO DARK CHOCOLATE COATED CRANBERRY;NETWORK FOODS INDUSTRIES SDN BHD;;10018;COCO MILK CHOCO RICE CEREAL;NETWORK FOODS INDUSTRIES SDN BHD;;rdfs:seeAlso;0.8802576489533012
+9697;COCO DARK CHOCOLATE COATED CRANBERRY;NETWORK FOODS INDUSTRIES SDN BHD;;9539;COCO DARK CHOCOLATE COATED HAZEL;NETWORK FOODS INDUSTRIES SDN BHD;;owl:sameAs;0.953888888888889
+9697;COCO DARK CHOCOLATE COATED CRANBERRY;NETWORK FOODS INDUSTRIES SDN BHD;;9589;COCO DARK CHOCOLATE COATED MACADAMIA;NETWORK FOODS INDUSTRIES SDN BHD;;owl:sameAs;0.9322605363984675
+9697;COCO DARK CHOCOLATE COATED CRANBERRY;NETWORK FOODS INDUSTRIES SDN BHD;;9711;COCO DARK CHOCOLATE COATED ALMOND;NETWORK FOODS INDUSTRIES SDN BHD;;owl:sameAs;0.9494949494949496
+20430;Haldin Temu Giring Extract;Haldin Pacific Semesta,PT;;20060;Haldin Tamarind Liquid Extract;Haldin Pacific Semesta,PT;;owl:sameAs;0.9059442586399109
+20430;Haldin Temu Giring Extract;Haldin Pacific Semesta,PT;;20269;Haldin Lerak Glycolic Extract;Haldin Pacific Semesta,PT;;rdfs:seeAlso;0.8694217506631301
+20430;Haldin Temu Giring Extract;Haldin Pacific Semesta,PT;;20524;Haldin Cumin;Haldin Pacific Semesta,PT;;rdfs:seeAlso;0.8798135198135197
+20430;Haldin Temu Giring Extract;Haldin Pacific Semesta,PT;;20559;Haldin Melon Liquid Extract;Haldin Pacific Semesta,PT;;owl:sameAs;0.9130277130277131
+11716;Choice L Bumbu Rendang padang;PT Pristine Prima Lestari;;11338;Choice L Bumbu Ayam Goreng;PT Pristine Prima Lestari;;owl:sameAs;0.9240871871756431
+11716;Choice L Bumbu Rendang padang;PT Pristine Prima Lestari;;11565;Choice L Bumbu Semur;PT Pristine Prima Lestari;;owl:sameAs;0.9003813387423936
+11716;Choice L Bumbu Rendang padang;PT Pristine Prima Lestari;;11613;Choice L Bumbu Sayur Asem;PT Pristine Prima Lestari;;rdfs:seeAlso;0.8983448275862069
+11716;Choice L Bumbu Rendang padang;PT Pristine Prima Lestari;;11744;Choice L Bumbu Gulai;PT Pristine Prima Lestari;;owl:sameAs;0.9003813387423936
+17482;GOLDEN LOTUS Chemie ERYTHROSINE FD C RED 3 ;PT Bukit Warna Abadi;;17147;GOLDEN LOTUS Chemie D C RED 34 Ca LAKE;PT Bukit Warna Abadi;;owl:sameAs;0.9113066095471236
+17482;GOLDEN LOTUS Chemie ERYTHROSINE FD C RED 3 ;PT Bukit Warna Abadi;;17164;GOLDEN LOTUS Chemie INDIGO CARMINE FD C BLUE 2 ;PT Bukit Warna Abadi;;rdfs:seeAlso;0.899667208595462
+17482;GOLDEN LOTUS Chemie ERYTHROSINE FD C RED 3 ;PT Bukit Warna Abadi;;17452;GOLDEN LOTUS Chemie EGG YELLOW GL 01;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8915762273901808
+17482;GOLDEN LOTUS Chemie ERYTHROSINE FD C RED 3 ;PT Bukit Warna Abadi;;18246;GOLDEN LOTUS Chemie URANINE D C YELLOW 8 ;PT Bukit Warna Abadi;;owl:sameAs;0.9109592606185981
+24861;Keripik Wader Keju Manis WEMA ;PKOPUNR WEMA;;24130;Keripik Cetul Sambel Balado WEMA ;PKOPUNR WEMA;;rdfs:seeAlso;0.8776969696969699
+24861;Keripik Wader Keju Manis WEMA ;PKOPUNR WEMA;;24414;Keripik Cetul Jagung Manis WEMA ;PKOPUNR WEMA;;owl:sameAs;0.9063333333333334
+24861;Keripik Wader Keju Manis WEMA ;PKOPUNR WEMA;;24493;Keripik Belut Pedas WEMA ;PKOPUNR WEMA;;rdfs:seeAlso;0.8844952380952382
+24861;Keripik Wader Keju Manis WEMA ;PKOPUNR WEMA;;25334;Keripik Udang Jagung Manis WEMA ;PKOPUNR WEMA;;owl:sameAs;0.9031333333333333
+11293;Chocolate Coated Crunch;Inventive Food Technology Ltd;;11445;Chocolate Malt Crunch;Inventive Food Technology Ltd;;owl:sameAs;0.9232516072790673
+23139;KIBIF Beef Breakfast Sausage;PT. De Glow International;;23180;KIBIF Chicken Breakfast Sausage;PT. De Glow International;;owl:sameAs;0.9326894009216591
+23139;KIBIF Beef Breakfast Sausage;PT. De Glow International;;24717;Kibif Meat Ball Super;PT. De Glow International;;rdfs:seeAlso;0.8690196078431374
+23139;KIBIF Beef Breakfast Sausage;PT. De Glow International;;25181;Kibif Beef Pepperoni;PT. De Glow International;;rdfs:seeAlso;0.8605714285714285
+23139;KIBIF Beef Breakfast Sausage;PT. De Glow International;;67783;kibif Beef Burger Bulgogi;PT. De Glow International;;rdfs:seeAlso;0.8624134453781513
+33741;Oleoresin of Star Anise NE0033;Xumei(Kaifeng) Bio Technology Co.,Ltd;;34234;Oleoresin of Capsicum NE0073;Xumei(Kaifeng) Bio Technology Co.,Ltd;;owl:sameAs;0.9048658008658008
+33741;Oleoresin of Star Anise NE0033;Xumei(Kaifeng) Bio Technology Co.,Ltd;;43807;Star Anise Essential Oil NE0035;Xumei(Kaifeng) Bio Technology Co.,Ltd;;rdfs:seeAlso;0.7975627240143368
+12532;Creamfill Instant Cheese;FEDERAL FOOD INTERNUSA, PT;;11937;Creamfill Instant Banana;FEDERAL FOOD INTERNUSA, PT;;owl:sameAs;0.9200000000000002
+12532;Creamfill Instant Cheese;FEDERAL FOOD INTERNUSA, PT;;12244;Creamfill Instant Sarikaya;FEDERAL FOOD INTERNUSA, PT;;owl:sameAs;0.9235897435897436
+12532;Creamfill Instant Cheese;FEDERAL FOOD INTERNUSA, PT;;12283;Creamfill Instant Chocolate;FEDERAL FOOD INTERNUSA, PT;;owl:sameAs;0.9444444444444444
+23480;KANEKA Filling Cheese Series;PT. Kaneka Foods Indonesia;;23047;KANEKA Filling Coffee Series;PT. Kaneka Foods Indonesia;;owl:sameAs;0.9433142857142858
+23480;KANEKA Filling Cheese Series;PT. Kaneka Foods Indonesia;;23102;KANEKA Filling Vanilla Series;PT. Kaneka Foods Indonesia;;owl:sameAs;0.9052754142409316
+23480;KANEKA Filling Cheese Series;PT. Kaneka Foods Indonesia;;23507;KANEKA Filling Mango Series;PT. Kaneka Foods Indonesia;;owl:sameAs;0.9106301106301107
+23480;KANEKA Filling Cheese Series;PT. Kaneka Foods Indonesia;;23517;KANEKA Filling Passion Fruit Series;PT. Kaneka Foods Indonesia;;rdfs:seeAlso;0.8922236024844721
+23480;KANEKA Filling Cheese Series;PT. Kaneka Foods Indonesia;;23551;KANEKA Filling Jackfruit Series;PT. Kaneka Foods Indonesia;;owl:sameAs;0.9057904227609697
+43369;Squash Berperisa Mangga Superindo 365;INKENAS AGUNG, PT;;42681;Sirup Berperisa Cocopandan Superindo 365;INKENAS AGUNG, PT;;rdfs:seeAlso;0.7945945945945947
+43369;Squash Berperisa Mangga Superindo 365;INKENAS AGUNG, PT;;43337;Squash Berperisa Jeruk Value Plus Premium;INKENAS AGUNG, PT;;rdfs:seeAlso;0.8662035393742713
+43369;Squash Berperisa Mangga Superindo 365;INKENAS AGUNG, PT;;43391;Squash Berperisa Mangga Value Plus Premium;INKENAS AGUNG, PT;;owl:sameAs;0.91408477602026
+43369;Squash Berperisa Mangga Superindo 365;INKENAS AGUNG, PT;;43574;Squash Berperisa Anggur Yoa Food;INKENAS AGUNG, PT;;owl:sameAs;0.9210810810810812
+27008;L agie Panda Cokelat Compound Butir;FAJAR MATARAM SEDAYU, PT;;26456;L agie Cokelat Compound Hitam Bread Filling ;FAJAR MATARAM SEDAYU, PT;;rdfs:seeAlso;0.8878268398268399
+27008;L agie Panda Cokelat Compound Butir;FAJAR MATARAM SEDAYU, PT;;26518;L agie Sonny Cokelat Compound Butir;FAJAR MATARAM SEDAYU, PT;;owl:sameAs;0.9427834101382488
+27008;L agie Panda Cokelat Compound Butir;FAJAR MATARAM SEDAYU, PT;;26608;L agie Sinar Cokelat Compound Butir Aneka Warna;FAJAR MATARAM SEDAYU, PT;;rdfs:seeAlso;0.8850157502072395
+27008;L agie Panda Cokelat Compound Butir;FAJAR MATARAM SEDAYU, PT;;26687;L agie Intan Cokelat Compound Butir Aneka Warna;FAJAR MATARAM SEDAYU, PT;;rdfs:seeAlso;0.8922884774799669
+27008;L agie Panda Cokelat Compound Butir;FAJAR MATARAM SEDAYU, PT;;26792;L agie Flamboyant Cokelat Compound Putih Manis Rasa Vanila;FAJAR MATARAM SEDAYU, PT;;rdfs:seeAlso;0.8774569689944944
+27008;L agie Panda Cokelat Compound Butir;FAJAR MATARAM SEDAYU, PT;;26960;L agie Badak Cokelat Compound Susu Manis Isi Enting Enting Kacang;FAJAR MATARAM SEDAYU, PT;;rdfs:seeAlso;0.8708757908757909
+7301;Breader 63082;Saritama Food Processing, PT;;36619;Predust 63081;Saritama Food Processing, PT;;rdfs:seeAlso;0.7948717948717949
+7301;Breader 63082;Saritama Food Processing, PT;;5841;Battermix 63085;Saritama Food Processing, PT;;rdfs:seeAlso;0.8034871794871794
+7301;Breader 63082;Saritama Food Processing, PT;;7308;Breader 63086;Saritama Food Processing, PT;;owl:sameAs;0.9753846153846155
+31823;Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant ;Sinar Sosro, PT;;26318;Minuman teh rasa stroberi kemasan karton laminat Sosro Fruit tea Stroberi ;Sinar Sosro, PT;;owl:sameAs;0.9031152204836415
+31823;Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant ;Sinar Sosro, PT;;31597;Minuman teh rasa apel blackcurrant kemasan botol PET Sosro Fruit tea x treme ;Sinar Sosro, PT;;owl:sameAs;0.9118281870684617
+31823;Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant ;Sinar Sosro, PT;;31601;Minuman teh hijau aroma melati kemasan botol PET Joy Tea Jasmine ;Sinar Sosro, PT;;rdfs:seeAlso;0.8692102971507143
+31823;Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant ;Sinar Sosro, PT;;31677;Minuman teh tawar kemasan PET Teh botol sosro unsweetened ;Sinar Sosro, PT;;rdfs:seeAlso;0.8677180636319863
+31823;Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant ;Sinar Sosro, PT;;31826;Minuman teh melati kemasan botol kaca Teh Botol Sosro ;Sinar Sosro, PT;;rdfs:seeAlso;0.8744655289016192
+31823;Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant ;Sinar Sosro, PT;;31827;Minuman teh rasa stroberi dan anggur sensasi dingin kurang gula kemasan botol PET Sosro Fruit tea freeze less sugar ;Sinar Sosro, PT;;rdfs:seeAlso;0.864783397774797
+31823;Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant ;Sinar Sosro, PT;;31990;Minuman teh berkarbonasi rasa mix fruit kemasan botol kaca Tebs ;Sinar Sosro, PT;;rdfs:seeAlso;0.8947613737734166
+41053;SWANISH Roti Manis Coklat;PT SWANISH BOGA INDUSTRIA;;40905;SWANISH Roti Manis Coklat Keju;PT SWANISH BOGA INDUSTRIA;;owl:sameAs;0.9733333333333334
+41053;SWANISH Roti Manis Coklat;PT SWANISH BOGA INDUSTRIA;;40929;SWANISH Sandwich Krim Keju;PT SWANISH BOGA INDUSTRIA;;rdfs:seeAlso;0.8722072874493927
+41053;SWANISH Roti Manis Coklat;PT SWANISH BOGA INDUSTRIA;;41019;SWANISH Roti Manis Sarikaya;PT SWANISH BOGA INDUSTRIA;;owl:sameAs;0.9312253968253967
+41053;SWANISH Roti Manis Coklat;PT SWANISH BOGA INDUSTRIA;;44202;Swanish Ayam Lada Hitam;PT SWANISH BOGA INDUSTRIA;;rdfs:seeAlso;0.868704347826087
+3010;ANNATTO LIQUID WS 1607020 CI 75120 E 160b;GRACIA TRIKREASI PANGAN, PT;;3219;ANNATTO LIQUID OS 1607018 CI 75120 E 160b;GRACIA TRIKREASI PANGAN, PT;;owl:sameAs;0.9534274711168165
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17142;GOLDEN LOTUS Chemie NATURAL WHITE 351;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8897232464848657
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17180;GOLDEN LOTUS Chemie TARTRAZINE FD C YELLOW 5 CO YT 01 ;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8858928493711102
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17184;GOLDEN LOTUS Chemie PINK RED 164 WS;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8974906832298137
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17203;GOLDEN LOTUS Chemie DARK GREEN LAKE 04555;PT Bukit Warna Abadi;;owl:sameAs;0.9121202669827211
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17271;GOLDEN LOTUS Chemie SUNSET YELLOW LAKE SSYP;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8566003819795529
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17304;GOLDEN LOTUS Chemie DARK BLACK GL 269;PT Bukit Warna Abadi;;owl:sameAs;0.9608930669800235
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17335;GOLDEN LOTUS Chemie CARMOISINE CO RC 01 ;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8883478260869566
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17512;GOLDEN LOTUS Chemie OPAQUE WHITE GL 05;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8891817249270102
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;17644;GOLDEN LOTUS Chemie D C RED 33 LAVANYA HEBE ;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8851679841897233
+17606;GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612;PT Bukit Warna Abadi;;18555;GOLDEN LOTUS Chemie TARTRAZINE SKT 175;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8891817249270102
+31051;Minuman Serbuk Rasa Jeruk Blackcurrant SEGAR SARI;MORINAGA KINO INDONESIA, PT;;30802;Minuman Serbuk Instan Berkarbonat Rasa Jeruk SEGAR SARI FRENTA;MORINAGA KINO INDONESIA, PT;;owl:sameAs;0.9021789188793798
+31051;Minuman Serbuk Rasa Jeruk Blackcurrant SEGAR SARI;MORINAGA KINO INDONESIA, PT;;31216;Minuman Serbuk Instan Berkarbonat Rasa Permen Karet SEGAR SARI FRENTA;MORINAGA KINO INDONESIA, PT;;rdfs:seeAlso;0.8736066802858657
+31051;Minuman Serbuk Rasa Jeruk Blackcurrant SEGAR SARI;MORINAGA KINO INDONESIA, PT;;31279;Minuman Serbuk Rasa Jeruk SEGAR SARI;MORINAGA KINO INDONESIA, PT;;owl:sameAs;0.9397732426303855
+49289; CAPTAIN S CATCH TUNA SPREAD 185 GM;PT. BLAMBANGAN FOODPACKERS INDONESIA;;49256; CAPTAIN S CATCH TUNA CHUNKS IN BRINE 95 GM;PT. BLAMBANGAN FOODPACKERS INDONESIA;;owl:sameAs;0.915437430786268
+15304;FAT BASE POWDER 52404;Drytech Processes (I) Pvt. Ltd.;;15308;FAT BASE POWDER 52402;Drytech Processes (I) Pvt. Ltd.;;owl:sameAs;0.9847619047619047
+19743;Hakiki Ovalet;PT Hakiki Donarta;;19399;Hakiki Pewarna Oranye;PT Hakiki Donarta;;rdfs:seeAlso;0.8632673992673994
+19743;Hakiki Ovalet;PT Hakiki Donarta;;19613;Hakiki VX;PT Hakiki Donarta;;owl:sameAs;0.9206837606837608
+36256;Pazar Bumbu Nasi Uduk;PT Pristine Prima Lestari;;35905;Pazar Bumbu Ayam Kalasan;PT Pristine Prima Lestari;;rdfs:seeAlso;0.899327731092437
+36256;Pazar Bumbu Nasi Uduk;PT Pristine Prima Lestari;;36123;Pazar Bumbu Pepes Ikan;PT Pristine Prima Lestari;;owl:sameAs;0.9213852813852814
+36256;Pazar Bumbu Nasi Uduk;PT Pristine Prima Lestari;;36451;Pazar Sereh Bubuk;PT Pristine Prima Lestari;;rdfs:seeAlso;0.8767851756087051
+18071;GROUND NUTMEG STERILE;INDOHARVEST SPICE, PT;;18117;GROUND CARDAMOM NON STERILE;INDOHARVEST SPICE, PT;;rdfs:seeAlso;0.8679116090880796
+18071;GROUND NUTMEG STERILE;INDOHARVEST SPICE, PT;;18172;GROUND NUTMEG EXTRA TOPO STERILE;INDOHARVEST SPICE, PT;;owl:sameAs;0.9221428571428572
+18071;GROUND NUTMEG STERILE;INDOHARVEST SPICE, PT;;18236;GROUND CASSIA STERILE;INDOHARVEST SPICE, PT;;rdfs:seeAlso;0.881904761904762
+47983;WHOLE GROUND CRUSHED CAPER;Synthite Industries Ltd;;47698;WHOLE GROUND CRUSHED MARJORAM;Synthite Industries Ltd;;owl:sameAs;0.9484350132625996
+28354;Longjon Keju;CV. FLAMBOYAN KARYA LESTARI;;28320;Longjon Coklat;CV. FLAMBOYAN KARYA LESTARI;;owl:sameAs;0.9028571428571428
+30148;Marimas Melon;MARIMAS PUTERA KENCANA, PT;;29995;Marimas Frambose;MARIMAS PUTERA KENCANA, PT;;owl:sameAs;0.9108391608391608
+30148;Marimas Melon;MARIMAS PUTERA KENCANA, PT;;30170;Marimas Teh rasa Lemon;MARIMAS PUTERA KENCANA, PT;;owl:sameAs;0.9149650349650349
+27683;Lautan Krimer LK 02 HF;LAUTAN NATURAL KRIMERINDO, PT;;21512;Lautan Krimer LK 32 CH;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9709090909090909
+27683;Lautan Krimer LK 02 HF;LAUTAN NATURAL KRIMERINDO, PT;;27176;Lautan Krimer LK 35 CM;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9418181818181819
+27683;Lautan Krimer LK 02 HF;LAUTAN NATURAL KRIMERINDO, PT;;27220;Lautan Krimer LK 35 FA;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9563636363636365
+27683;Lautan Krimer LK 02 HF;LAUTAN NATURAL KRIMERINDO, PT;;27300;Lautan Krimer LK35 BA;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9331601731601731
+27683;Lautan Krimer LK 02 HF;LAUTAN NATURAL KRIMERINDO, PT;;27360;Lautan Krimer LK 28 CH;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9709090909090909
+27683;Lautan Krimer LK 02 HF;LAUTAN NATURAL KRIMERINDO, PT;;27367;Lautan Krimer LK 28 CA;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9563636363636365
+31367;Monde Kukis;Nissin Biscuit Indonesia, PT;;31686;Monde Kukis Butter Cookies ;Nissin Biscuit Indonesia, PT;;owl:sameAs;0.9051851851851853
+14205;Duta Sari buah nanas dalam kaleng 227g 270g 567g 836g 3050g ;Great Giant Pineapple, PT;;14529;Duta Sari buah nanas dan markisa dengan serat nanas dan nata de coco dalam kaleng 227g 270g 567g 836g 3050g ;Great Giant Pineapple, PT;;rdfs:seeAlso;0.8888888888888891
+14205;Duta Sari buah nanas dalam kaleng 227g 270g 567g 836g 3050g ;Great Giant Pineapple, PT;;14811;Duta Hancuran nanas dalam jus dalam kaleng 227g 270g 567g 836g 3050g ;Great Giant Pineapple, PT;;owl:sameAs;0.9070904547726137
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;22344;John Farmer Almond Pasta Mix Chunky 01;GUNANUSA ERAMANDIRI, PT;;rdfs:seeAlso;0.8783557928638022
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;22407;John Farmer Frappucinno Almond Butter Chunky;GUNANUSA ERAMANDIRI, PT;;rdfs:seeAlso;0.8649158249158251
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;22483;John Farmer Almond Butter Chunky;GUNANUSA ERAMANDIRI, PT;;rdfs:seeAlso;0.8785185185185185
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;22617;John Farmer Hazelnut Pasta Chunky;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9185858585858586
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;22699;John Farmer Cashew Butter Chunky;GUNANUSA ERAMANDIRI, PT;;rdfs:seeAlso;0.8751587301587302
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;23025;John Farmer Peanut Pasta Chunky 05;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9457952069716777
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;23271;John Farmer Peanut Pasta 01;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9881481481481482
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;23568;John Farmer Peanut Butter Creamy 10;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9110043708304578
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;23576;John Farmer Peanut Butter Creamy 16;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9219365079365078
+23252;John Farmer Peanut Pasta 16;GUNANUSA ERAMANDIRI, PT;;23596;John Farmer Peanut Butter Creamy 30;GUNANUSA ERAMANDIRI, PT;;owl:sameAs;0.9000327080327082
+41512;STABIFIL DURIAN;Pachira Distrinusa, PT;;40944;STABIFIL PISANG COKELAT;Pachira Distrinusa, PT;;rdfs:seeAlso;0.8914782608695653
+41512;STABIFIL DURIAN;Pachira Distrinusa, PT;;41306;STABIFIL KACANG;Pachira Distrinusa, PT;;owl:sameAs;0.9146666666666667
+11837;Chocolate Stick;Freyabadi Indotama, PT;;11425;Chocolate Cream YY ;Freyabadi Indotama, PT;;rdfs:seeAlso;0.8899649122807018
+11837;Chocolate Stick;Freyabadi Indotama, PT;;11727;Chocolate Drops;Freyabadi Indotama, PT;;owl:sameAs;0.9146666666666667
+25083;Kibif Sosis Sapi;PT. De Glow International;;23381;KIBIF Sosis Sapi Rasa Semur;PT. De Glow International;;owl:sameAs;0.9348148148148148
+25083;Kibif Sosis Sapi;PT. De Glow International;;23429;KIBIF Sosis Beef Weiner;PT. De Glow International;;owl:sameAs;0.9004347826086956
+25083;Kibif Sosis Sapi;PT. De Glow International;;24954;Kibif Sosis Sapi Kombinasi;PT. De Glow International;;owl:sameAs;0.9384615384615385
+25083;Kibif Sosis Sapi;PT. De Glow International;;25115;Kibif Bakso Premium;PT. De Glow International;;rdfs:seeAlso;0.8677192982456141
+25083;Kibif Sosis Sapi;PT. De Glow International;;25273;Kibif Bakso Sapi;PT. De Glow International;;rdfs:seeAlso;0.8969230769230769
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34307;P102 Series BC01801 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9289510489510489
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34333;P102 Series BC01111 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9156043956043958
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34362;P101 Series AA0012 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9031247863247864
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34408;P102 Series BC02801 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9387290969899666
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34537;P101 Series AF0031 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;rdfs:seeAlso;0.8915897435897437
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34640;P102 Series BE01101 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9434965034965035
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34703;P102 Series BP00203 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9520512820512821
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34738;P102 Series BA04002 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9520512820512821
+34488;P102 Series BI00902 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34892;P102 Series BM00201 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9520512820512821
+32367;NUMBRO WAFER KRIM RASA DURIAN;PT JAVAINDO MAJU SEJAHTERA;;32354;NUMBRO WAFER RASA STROBERI;PT JAVAINDO MAJU SEJAHTERA;;rdfs:seeAlso;0.8984261715296198
+32367;NUMBRO WAFER KRIM RASA DURIAN;PT JAVAINDO MAJU SEJAHTERA;;33307;Numbro Wafer Krim Rasa Hazelnut;PT JAVAINDO MAJU SEJAHTERA;;owl:sameAs;0.9484110550183964
+17429;GOLDEN LOTUS Chemie RED 2 G;PT Bukit Warna Abadi;;17158;GOLDEN LOTUS Chemie INDIGO CARMINE LAKE LS MS HS FD C BLUE 2 LAKE ;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8786428386428387
+17429;GOLDEN LOTUS Chemie RED 2 G;PT Bukit Warna Abadi;;17320;GOLDEN LOTUS Chemie ERYTHROSINE GL 266;PT Bukit Warna Abadi;;owl:sameAs;0.9312400659769082
+17429;GOLDEN LOTUS Chemie RED 2 G;PT Bukit Warna Abadi;;17443;GOLDEN LOTUS Chemie APPLE GREEN WS;PT Bukit Warna Abadi;;owl:sameAs;0.9297952069716777
+17429;GOLDEN LOTUS Chemie RED 2 G;PT Bukit Warna Abadi;;17615;GOLDEN LOTUS Chemie SUNSET YELLOW LAKE HS 203;PT Bukit Warna Abadi;;owl:sameAs;0.9008888888888889
+17429;GOLDEN LOTUS Chemie RED 2 G;PT Bukit Warna Abadi;;17713;GOLDEN LOTUS Chemie ERYTHROSINE LAKE LS MS HS;PT Bukit Warna Abadi;;owl:sameAs;0.9008888888888889
+17429;GOLDEN LOTUS Chemie RED 2 G;PT Bukit Warna Abadi;;17775;GOLDEN LOTUS Chemie SUNSET YELLOW LAKE 356;PT Bukit Warna Abadi;;owl:sameAs;0.903915343915344
+17429;GOLDEN LOTUS Chemie RED 2 G;PT Bukit Warna Abadi;;17985;GOLDEN LOTUS Chemie WINTER GREEN TBM;PT Bukit Warna Abadi;;owl:sameAs;0.9264592592592593
+46898;Tulip Chocolatier White Compound Chips;Freyabadi Indotama, PT;;46717;Tulip Chocolatier Dark Chocolate Chips;Freyabadi Indotama, PT;;owl:sameAs;0.9219736842105264
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;21518;Lautan Krimer LK 32 CJ;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9418181818181819
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;27041;Lautan Krimer LK 32 CM;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9418181818181819
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;27051;Lautan Krimer LK 32 CB;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9418181818181819
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;27053;Lautan Krimer LK 32 CA;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9418181818181819
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;27080;Lautan Krimer LK 03 LF;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9709090909090909
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;27224;Lautan Krimer LK 35 FC;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9563636363636365
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;27355;Lautan Krimer LK 28 CE;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9418181818181819
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;27360;Lautan Krimer LK 28 CH;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9563636363636365
+21508;Lautan Krimer LK 07 HF;LAUTAN NATURAL KRIMERINDO, PT;;27752;Lautan Krimer LK 10 LF;LAUTAN NATURAL KRIMERINDO, PT;;owl:sameAs;0.9709090909090909
+18312;GOLDEN LOTUS Chemie VIOLET 964;PT Bukit Warna Abadi;;17117;GOLDEN LOTUS Chemie CARAMEL TYPE IV POWDER;PT Bukit Warna Abadi;;owl:sameAs;0.9061164021164021
+18312;GOLDEN LOTUS Chemie VIOLET 964;PT Bukit Warna Abadi;;17305;GOLDEN LOTUS Chemie COKELAT HT 31;PT Bukit Warna Abadi;;owl:sameAs;0.9281454545454546
+18312;GOLDEN LOTUS Chemie VIOLET 964;PT Bukit Warna Abadi;;17360;GOLDEN LOTUS Chemie SUNSET YELLOW FCF LAKE LS MS HS FD C YELLOW 6 ;PT Bukit Warna Abadi;;rdfs:seeAlso;0.857939393939394
+18312;GOLDEN LOTUS Chemie VIOLET 964;PT Bukit Warna Abadi;;17615;GOLDEN LOTUS Chemie SUNSET YELLOW LAKE HS 203;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8862222222222222
+18312;GOLDEN LOTUS Chemie VIOLET 964;PT Bukit Warna Abadi;;17772;GOLDEN LOTUS Chemie LAVANYA SHYMA GL 166;PT Bukit Warna Abadi;;rdfs:seeAlso;0.8973333333333333
+18312;GOLDEN LOTUS Chemie VIOLET 964;PT Bukit Warna Abadi;;17775;GOLDEN LOTUS Chemie SUNSET YELLOW LAKE 356;PT Bukit Warna Abadi;;owl:sameAs;0.9023296703296704
+32818;NUMBRO WAFER RASA VANILLA;PT JAVAINDO MAJU SEJAHTERA;;13002;DHONE WAFER RASA VANILLA;PT JAVAINDO MAJU SEJAHTERA;;rdfs:seeAlso;0.885904761904762
+32818;NUMBRO WAFER RASA VANILLA;PT JAVAINDO MAJU SEJAHTERA;;33005;Numbro Wafer Krim Selai Kacang;PT JAVAINDO MAJU SEJAHTERA;;owl:sameAs;0.9126787878787879
+31338;Minuman Serbuk Mochaccino;PT CIPTA HARUM LESTARI;;30644;Minuman Serbuk Kopi Arum Co;PT CIPTA HARUM LESTARI;;owl:sameAs;0.9197968253968254
+31338;Minuman Serbuk Mochaccino;PT CIPTA HARUM LESTARI;;31312;Minuman Serbuk Choco Cookies and Cream;PT CIPTA HARUM LESTARI;;owl:sameAs;0.911319298245614
+9436;CANNED TUNA IN VEGETABLE OIL AMERICANA ;PT. BANYUWANGI CANNERY INDONESIA;;8988;CANNED TUNA IN VEGETABLE OIL PACIFIC KING ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9395992243051068
+9436;CANNED TUNA IN VEGETABLE OIL AMERICANA ;PT. BANYUWANGI CANNERY INDONESIA;;9077;CANNED TUNA IN VEGETABLE OIL TUNATUN ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9446604296604297
+9436;CANNED TUNA IN VEGETABLE OIL AMERICANA ;PT. BANYUWANGI CANNERY INDONESIA;;9096;CANNED TUNA IN BRINE ASAHI ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9083122507122507
+9436;CANNED TUNA IN VEGETABLE OIL AMERICANA ;PT. BANYUWANGI CANNERY INDONESIA;;9345;CANNED TUNA IN VEGETABLE OIL DOLLY ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9402197802197803
+9436;CANNED TUNA IN VEGETABLE OIL AMERICANA ;PT. BANYUWANGI CANNERY INDONESIA;;9346;CANNED TUNA IN VEGETABLE OIL BARAKA ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9705982905982906
+9436;CANNED TUNA IN VEGETABLE OIL AMERICANA ;PT. BANYUWANGI CANNERY INDONESIA;;9409;CANNED SARDINES IN VEGETABLE OIL CLASSY ;PT. BANYUWANGI CANNERY INDONESIA;;rdfs:seeAlso;0.8792820512820514
+9436;CANNED TUNA IN VEGETABLE OIL AMERICANA ;PT. BANYUWANGI CANNERY INDONESIA;;9449;CANNED TUNA IN VEGETABLE OIL SIBLUE ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9485042735042735
+31049;Mie Kering Burung Dara BD Mtist ;PT. SURYA PRATISTA HUTAMA;;30772;Mie Kering Burung Dara Doro Mas Doro Mas ;PT. SURYA PRATISTA HUTAMA;;owl:sameAs;0.929268292682927
+31049;Mie Kering Burung Dara BD Mtist ;PT. SURYA PRATISTA HUTAMA;;30779;Mie Kering Burung Dara BD 44 ;PT. SURYA PRATISTA HUTAMA;;owl:sameAs;0.9639655172413792
+31049;Mie Kering Burung Dara BD Mtist ;PT. SURYA PRATISTA HUTAMA;;30824;Mie Kering Burung Dara Mie Lebar ;PT. SURYA PRATISTA HUTAMA;;owl:sameAs;0.9443290043290045
+29777;MORIN Selai Stroberi Strawberry Jam In Syrup ;ASTAGUNA  WISESA, PT;;29612;MORIN Selai Stroberi Strawberry Jam ;ASTAGUNA  WISESA, PT;;owl:sameAs;0,672222222
+10913;Cassia Vera AA Cut and Washed;CV. NTC Spice;;10474;Cassia Vera A Cuttings;CV. NTC Spice;;owl:sameAs;0.9230094043887147
+10913;Cassia Vera AA Cut and Washed;CV. NTC Spice;;10669;Cassia Vera A Stick;CV. NTC Spice;;owl:sameAs;0.9075392334792356
+18511;GO Wafer Roll dengan Krim Rasa Cokelat dan Pisang ;PT. SIANTAR TOP, TBK;;17977;GO Wafer Roll dengan Krim Rasa Cokelat ;PT. SIANTAR TOP, TBK;;owl:sameAs;0.9648000000000001
+18511;GO Wafer Roll dengan Krim Rasa Cokelat dan Pisang ;PT. SIANTAR TOP, TBK;;18142;GO Wafer Roll dengan Krim Rasa Vanilla ;PT. SIANTAR TOP, TBK;;owl:sameAs;0.937221898821899
+23353;Juice United Minuman Rasa Buah dan Sayuran Merah;BERRI INDOSARI,PT;;23068;Juice United Minuman Rasa Buah dan Sayuran Hijau;BERRI INDOSARI,PT;;owl:sameAs;0.9764444444444444
+23353;Juice United Minuman Rasa Buah dan Sayuran Merah;BERRI INDOSARI,PT;;23095;Juice United Minuman Rasa Buah Jambu;BERRI INDOSARI,PT;;owl:sameAs;0.9397385620915033
+23353;Juice United Minuman Rasa Buah dan Sayuran Merah;BERRI INDOSARI,PT;;23620;Juice United minuman rasa jeruk no added sugar;BERRI INDOSARI,PT;;owl:sameAs;0.921036789297659
+23353;Juice United Minuman Rasa Buah dan Sayuran Merah;BERRI INDOSARI,PT;;44301;Starbucks Minuman Saribuah Campuran Banana Mix ;BERRI INDOSARI,PT;;rdfs:seeAlso;0.7740431921282986
+32278;NATIONAL 1465;Ingredion China Limited;;32112;NATIONAL DC;Ingredion China Limited;;owl:sameAs;0.9216783216783218
+32278;NATIONAL 1465;Ingredion China Limited;;32121;NATIONAL 740;Ingredion China Limited;;owl:sameAs;0.9364102564102565
+32278;NATIONAL 1465;Ingredion China Limited;;32509;NATIONAL FRIGEX;Ingredion China Limited;;rdfs:seeAlso;0.8867692307692308
+38176;RED BEAN PASTE WITH SKIN JA52KF;BEIJING KYO-NICHI TODAI FOODS CO.,LTD.;;38097;RED BEAN PASTE WITH SKIN A62H;BEIJING KYO-NICHI TODAI FOODS CO.,LTD.;;owl:sameAs;0.9683203559510567
+38176;RED BEAN PASTE WITH SKIN JA52KF;BEIJING KYO-NICHI TODAI FOODS CO.,LTD.;;38198;RED BEAN PASTE WITH SKIN JAQ18;BEIJING KYO-NICHI TODAI FOODS CO.,LTD.;;owl:sameAs;0.9633548387096775
+38176;RED BEAN PASTE WITH SKIN JA52KF;BEIJING KYO-NICHI TODAI FOODS CO.,LTD.;;38223;RED BEAN PASTE WITH SKIN A58S;BEIJING KYO-NICHI TODAI FOODS CO.,LTD.;;owl:sameAs;0.9683203559510567
+38176;RED BEAN PASTE WITH SKIN JA52KF;BEIJING KYO-NICHI TODAI FOODS CO.,LTD.;;38505;RED BEAN PASTE WITH SKIN JA56RF1;BEIJING KYO-NICHI TODAI FOODS CO.,LTD.;;owl:sameAs;0.9746774193548389
+21061;Hydrolyzed Vegetable Protein Powder HVP MR ;Baoding Way Chein Food Industrial Co.,Ltd.;;20858;Hydrolyzed Vegetable Protein Powder HVP IW ;Baoding Way Chein Food Industrial Co.,Ltd.;;owl:sameAs;0.9851162790697674
+21061;Hydrolyzed Vegetable Protein Powder HVP MR ;Baoding Way Chein Food Industrial Co.,Ltd.;;20952;Hydrolyzed Vegetable Protein Powder HVP MN ;Baoding Way Chein Food Industrial Co.,Ltd.;;owl:sameAs;0.9925581395348837
+21061;Hydrolyzed Vegetable Protein Powder HVP MR ;Baoding Way Chein Food Industrial Co.,Ltd.;;20970;Hydrolyzed Vegetable Protein Powder HVP MO ;Baoding Way Chein Food Industrial Co.,Ltd.;;owl:sameAs;0.9925581395348837
+21061;Hydrolyzed Vegetable Protein Powder HVP MR ;Baoding Way Chein Food Industrial Co.,Ltd.;;21370;Hydrolyzed Vegetable Protein Powder HVP MP;Baoding Way Chein Food Industrial Co.,Ltd.;;owl:sameAs;0.98874861572536
+21061;Hydrolyzed Vegetable Protein Powder HVP MR ;Baoding Way Chein Food Industrial Co.,Ltd.;;21381;Hydrolyzed Vegetable Protein Powder HVP LK;Baoding Way Chein Food Industrial Co.,Ltd.;;owl:sameAs;0.981218161683278
+26362;LARUTAN PENYEGAR ESPE RASA ANGGUR;Sinde Budi Sentosa, PT;;26571;LARUTAN PENYEGAR CAP BADAK 500 ML;Sinde Budi Sentosa, PT;;rdfs:seeAlso;0.8856389986824771
+26362;LARUTAN PENYEGAR ESPE RASA ANGGUR;Sinde Budi Sentosa, PT;;26709;LARUTAN PENYEGAR ESPE RASA MELON;Sinde Budi Sentosa, PT;;owl:sameAs;0.9557575757575758
+37985;RBD PALM OIL VEGETABLE OIL ;PT Multimas Nabati Asahan;;38252;RBD PALM OIL SF PALM OIL ;PT Multimas Nabati Asahan;;rdfs:seeAlso;0.8985185185185185
+37985;RBD PALM OIL VEGETABLE OIL ;PT Multimas Nabati Asahan;;38446;RBD PALM OIL POLIVA BAKER FAT ;PT Multimas Nabati Asahan;;owl:sameAs;0.9041803542673108
+37985;RBD PALM OIL VEGETABLE OIL ;PT Multimas Nabati Asahan;;38619;RBD PALM OLEIN RENYAAH ;PT Multimas Nabati Asahan;;rdfs:seeAlso;0.8801780808941935
+49446; Kellogg Special K;Kellogg (Thailand) Ltd;;48906; Kellogg Corn Flakes;Kellogg (Thailand) Ltd;;owl:sameAs;0.9013333333333335
+16613;Fish Patties Nikmat;PT. SOEJASCH BALI;;11063;Fish Fingers Nikmat;PT. SOEJASCH BALI;;owl:sameAs;0.911298245614035
+23795;Keripik Cetul Sapi Panggang WEMA ;PKOPUNR WEMA;;24181;Keripik Cetul WEMA ;PKOPUNR WEMA;;owl:sameAs;0.9110685805422649
+23795;Keripik Cetul Sapi Panggang WEMA ;PKOPUNR WEMA;;24234;Keripik Belut WEMA ;PKOPUNR WEMA;;rdfs:seeAlso;0.8877405635300373
+23795;Keripik Cetul Sapi Panggang WEMA ;PKOPUNR WEMA;;24401;Keripik Belut Sapi Panggang WEMA ;PKOPUNR WEMA;;owl:sameAs;0.9853030303030303
+23795;Keripik Cetul Sapi Panggang WEMA ;PKOPUNR WEMA;;25334;Keripik Udang Jagung Manis WEMA ;PKOPUNR WEMA;;owl:sameAs;0.9044276094276096
+23795;Keripik Cetul Sapi Panggang WEMA ;PKOPUNR WEMA;;25396;Keripik Udang Keju WEMA ;PKOPUNR WEMA;;rdfs:seeAlso;0.8663030303030304
+4666;Andros coconut frozen puree 49421329;Beijing Andros Fruit Company Ltd.,China;;3902;Andros Caramelized Apple Gourmet Sauce 49482701;Beijing Andros Fruit Company Ltd.,China;;rdfs:seeAlso;0.8622852639873917
+4666;Andros coconut frozen puree 49421329;Beijing Andros Fruit Company Ltd.,China;;4312;Andros frozen lychee puree 49421327;Beijing Andros Fruit Company Ltd.,China;;owl:sameAs;0.9055982484948004
+4666;Andros coconut frozen puree 49421329;Beijing Andros Fruit Company Ltd.,China;;4540;Andros frozen passion puree 49421320 01;Beijing Andros Fruit Company Ltd.,China;;owl:sameAs;0.9097435897435899
+32176;NON DAIRY CREAMER 32475;Drytech Processes (I) Pvt. Ltd.;;32170;NON DAIRY CREAMER 32474;Drytech Processes (I) Pvt. Ltd.;;owl:sameAs;0.9860869565217392
+43440;Sop Durian Topping Almond;Durian Kunyil;;43047;Sop Durian Topping Kelapa;Durian Kunyil;;owl:sameAs;0.9411809523809525
+43440;Sop Durian Topping Almond;Durian Kunyil;;43630;Sop Durian Topping Alpukat;Durian Kunyil;;owl:sameAs;0.9436307692307693
+8120;Bumbu Tabur Abon Kuch2 Hotahu ;PPKOPKDS KUCH KUCH HOTAHU;;8217;Bumbu Tabur Pizza Kuch2 Hotahu ;PPKOPKDS KUCH KUCH HOTAHU;;owl:sameAs;0.9366881720430109
+3145;Abon Sapi Cap Bonvie;CV. Lancar Jaya Food;;3217;Abon Sapi Cap SPT;CV. Lancar Jaya Food;;owl:sameAs;0.923764705882353
+3145;Abon Sapi Cap Bonvie;CV. Lancar Jaya Food;;3550;Abon Sapi Cap Louhan;CV. Lancar Jaya Food;;owl:sameAs;0.9360000000000002
+8640;Butter Kukis Kelapa New Mirasa;Mirasa Magelang, PR;;8115;Butter Kukis Vanilla New Mirasa;Mirasa Magelang, PR;;owl:sameAs;0.9337252090800479
+28652;MATRIX POMELO FLAVOUR EXTRACT;MATRIX;;28246;MATRIX ADLAY FLAVOUR;MATRIX;;rdfs:seeAlso;0.8909695740365111
+28652;MATRIX POMELO FLAVOUR EXTRACT;MATRIX;;28589;MATRIX PEANUT FLAVOUR;MATRIX;;rdfs:seeAlso;0.8832737014951171
+28652;MATRIX POMELO FLAVOUR EXTRACT;MATRIX;;28754;MATRIX LAMB FLAVOUR;MATRIX;;owl:sameAs;0.9042226255293406
+20243;Haldin Lemongrass Glycolic Extract;Haldin Pacific Semesta,PT;;20374;Haldin Rose Glycolic Extract;Haldin Pacific Semesta,PT;;owl:sameAs;0.9174789915966388
+27804;Low Temperature Food Grade Soy Flake YP5088;Shandong Yuwang Ecological Food Industry Co.,Ltd;;28367;Low Temperature Food Grade Soy Flour;Shandong Yuwang Ecological Food Industry Co.,Ltd;;owl:sameAs;0.9494573643410853
+4439;Aneka Olahan Hasil Laut Niki Sae Aneka Ikan Asin Ikan Samge;NIKI SAE;;4454;Aneka Olahan Hasil Laut Niki Sae Aneka Ikan Asin Udang Rebon;NIKI SAE;;owl:sameAs;0.9674777150031388
+29344;MORINAGA CHIL KID REGULAR VANILA;PT. Sanghiang Perkasa;;31366;Morinaga Chil Kid P HP;PT. Sanghiang Perkasa;;owl:sameAs;0.9131818181818183
+29344;MORINAGA CHIL KID REGULAR VANILA;PT. Sanghiang Perkasa;;31378;Morinaga Chil School Soya;PT. Sanghiang Perkasa;;rdfs:seeAlso;0.8643882352941177
+18006;Galicol Dark Black;Galic Bina Mada, PT;;17916;Galicol Dark Brown RQ;Galic Bina Mada, PT;;owl:sameAs;0.9111111111111112
+18006;Galicol Dark Black;Galic Bina Mada, PT;;18062;Galicol Red Tomato;Galic Bina Mada, PT;;rdfs:seeAlso;0.8666666666666667
+18006;Galicol Dark Black;Galic Bina Mada, PT;;18327;Galicol Grape;Galic Bina Mada, PT;;rdfs:seeAlso;0.875965811965812
+47694;WHOLE GROUND CRUSHED PEPPER WHITE;Synthite Industries Ltd;;47522;WHOLE GROUND CRUSHED CAMBODGE;Synthite Industries Ltd;;owl:sameAs;0.9080459770114944
+47694;WHOLE GROUND CRUSHED PEPPER WHITE;Synthite Industries Ltd;;47572;WHOLE GROUND CRUSHED FENNEL SMALL;Synthite Industries Ltd;;owl:sameAs;0.9127272727272728
+32296;NUGET BENTUK IKAN;PPRINKDL LANGGENG;;32595;NUGET BENTUK CINTA;PPRINKDL LANGGENG;;owl:sameAs;0.9628104575163399
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34336;P102 Series BA03302 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9507692307692308
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34360;P102 Series BB02102 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9561204013377926
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34506;P102 Series BR00501 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9553846153846155
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34601;P102 Series BA03501 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9630769230769232
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34676;P102 Series BG00903 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9630769230769232
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34697;P102 Series BA04301 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9630769230769232
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34811;P102 Series BG01403 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9561204013377926
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34830;P102 Series BC02601 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9630769230769232
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34886;P102 Series BB01102 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9561204013377926
+34782;P102 Series BQ00701 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34984;P102 Series BA04102 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9561204013377926
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;10069;Caramel Color SRC P750;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.948051948051948
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9548;Caramel Color SRC4430;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9695238095238095
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9555;Caramel Color SRC3212 HV;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9430075187969924
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9705;Caramel Color SRC3340 LV;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9514285714285715
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9745;Caramel Color SRC3220;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9695238095238095
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9749;Caramel Color SRC P149;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9545226703121441
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9774;Caramel Color SRC3260;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9695238095238095
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9900;Caramel Color SRC1100;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9695238095238095
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9955;Caramel Color SRC CS1;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9542857142857144
+9782;Caramel Color SRC4120;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;9967;Caramel Color SRC3380;Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd;;owl:sameAs;0.9542857142857144
+37574;Pronas Kornet Daging Sapi Classic Rasa Keju ;Canning Indonesian Products, PT;;32096;Pronas Kornet Daging Sapi Classic Rasa Original ;Canning Indonesian Products, PT;;owl:sameAs;0.9587878787878787
+37574;Pronas Kornet Daging Sapi Classic Rasa Keju ;Canning Indonesian Products, PT;;37353;Pronas Kornet Daging Sapi Kombinasi;Canning Indonesian Products, PT;;owl:sameAs;0.9155670995670995
+37574;Pronas Kornet Daging Sapi Classic Rasa Keju ;Canning Indonesian Products, PT;;37684;Pronas Rendang Daging Sapi;Canning Indonesian Products, PT;;rdfs:seeAlso;0.8599574338704774
+37574;Pronas Kornet Daging Sapi Classic Rasa Keju ;Canning Indonesian Products, PT;;37749;Pronas Kornet Daging Sapi Classic;Canning Indonesian Products, PT;;owl:sameAs;0,066666667
+39983;Roti Electro Bake Crushing Orange BECB14 BO 02 04D ;SRIBOGA BAKERIES INTEGRA, PT;;39968;Roti Oven Bake Crushing White BOA1 BWNR ;SRIBOGA BAKERIES INTEGRA, PT;;rdfs:seeAlso;0.8591372549019609
+39983;Roti Electro Bake Crushing Orange BECB14 BO 02 04D ;SRIBOGA BAKERIES INTEGRA, PT;;40075;Roti Electro Bake Crushing White BW 07 04 ;SRIBOGA BAKERIES INTEGRA, PT;;owl:sameAs;0.9211951447245565
+10954;Cassava Chips Maxi Sea Salt;Maxindo Karya Anugerah, PT;;10748;Cassava Crackers Maxi Hot Spicy;Maxindo Karya Anugerah, PT;;owl:sameAs;0.9106581476286946
+32889;Nissin Biskuit Mini Stick ;Nissin Biscuit Indonesia, PT;;32914;Nissin Biskuit Krim Rasa Mentega;Nissin Biscuit Indonesia, PT;;owl:sameAs;0.9191471571906356
+32889;Nissin Biskuit Mini Stick ;Nissin Biscuit Indonesia, PT;;33159;Nissin Krekers Mini Stick Crackers ;Nissin Biscuit Indonesia, PT;;rdfs:seeAlso;0.8595164835164837
+3115;ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MIXED TROPICAL DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO MIXED TROPICAL FLAVOUR;NUTRIVO DAIRY INDUSTRY (M) SDN.BHD;;2917;ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MANGO ATROGEN YOGURT DRINK MANGO FLAVOUR ;NUTRIVO DAIRY INDUSTRY (M) SDN.BHD;;owl:sameAs;0.9063356871632589
+3115;ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MIXED TROPICAL DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO MIXED TROPICAL FLAVOUR;NUTRIVO DAIRY INDUSTRY (M) SDN.BHD;;3369;ATROGEN MINUMAN SUSU KULTUR DENGAN JUS BUAH BUAHAN PERISA ORANGE ATROGEN CULTURED MILK DRINK ORANGE FLAVOUR ;NUTRIVO DAIRY INDUSTRY (M) SDN.BHD;;rdfs:seeAlso;0.867520846044336
+3115;ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MIXED TROPICAL DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO MIXED TROPICAL FLAVOUR;NUTRIVO DAIRY INDUSTRY (M) SDN.BHD;;3400;ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA STRAWBERRY DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO STRAWBERRY FLAVOUR ;NUTRIVO DAIRY INDUSTRY (M) SDN.BHD;;owl:sameAs;0.9236146502141398
+3115;ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MIXED TROPICAL DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO MIXED TROPICAL FLAVOUR;NUTRIVO DAIRY INDUSTRY (M) SDN.BHD;;3709;ATROGEN MINUMAN SUSU KULTUR DENGAN JUS BUAH BUAHAN PERISA APPLE ATROGEN CULTURE MILK DRINK APPLE FLAVOUR ;NUTRIVO DAIRY INDUSTRY (M) SDN.BHD;;rdfs:seeAlso;0.8563737268470273
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;8987;CANNED TUNA IN VEGETABLE OIL OMQ AL MOHET ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9352831402831403
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9090;CANNED TUNA IN VEGETABLE OIL ALMADINA ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9543773438510281
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9096;CANNED TUNA IN BRINE ASAHI ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9074562562562563
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9149;CANNED TUNA IN VEGETABLE OIL ALMAMLAKA ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9412335412335413
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9222;CANNED TUNA SALAD SUNNARA ;PT. BANYUWANGI CANNERY INDONESIA;;rdfs:seeAlso;0.8657558657558659
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9263;CANNED TUNA HOT SPICY DOLLY ;PT. BANYUWANGI CANNERY INDONESIA;;rdfs:seeAlso;0.8607722007722007
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9290;CANNED TUNA IN VEGETABLE OIL FI ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.969054054054054
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9345;CANNED TUNA IN VEGETABLE OIL DOLLY ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9468725868725869
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9360;CANNED TUNA IN VEGETABLE OIL APPETITOSO ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9536152623211447
+9260;CANNED TUNA IN VEGETABLE OIL TRITUNA ;PT. BANYUWANGI CANNERY INDONESIA;;9449;CANNED TUNA IN VEGETABLE OIL SIBLUE ;PT. BANYUWANGI CANNERY INDONESIA;;owl:sameAs;0.9606006006006007
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34317;P102 Series BC00307 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.940397202797203
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34339;P101 Series AG0012 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;6,677777778
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34450;P102 Series BE00804 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;rdfs:seeAlso;0.8869230769230769
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34482;P101 Series AA0032 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9872000000000001
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34528;P102 Series BA01201 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9022153846153846
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34554;P102 Series BO00702 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9342358974358975
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34703;P102 Series BP00203 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9342358974358975
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34724;P102 Series BH00502 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9195897435897435
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34792;P102 Series BH00413 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9342358974358975
+34507;P101 Series AA0073 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34982;P102 Series BE00503 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;rdfs:seeAlso;0.898680341880342
+18443;Geboooyku Kornet Daging Ayam Kornet Bentuk Udang ;PETRA SEJAHTERA ABADI, PT;;18248;Geboooyku Naget Ayam Bentuk Hati;PETRA SEJAHTERA ABADI, PT;;rdfs:seeAlso;0.8820309414088217
+18443;Geboooyku Kornet Daging Ayam Kornet Bentuk Udang ;PETRA SEJAHTERA ABADI, PT;;18375;Geboooyku Kornet Daging Ayam Bentuk Lolly ;PETRA SEJAHTERA ABADI, PT;;owl:sameAs;0.9341066953097028
+25436;Kogen Biskuit Marie;Khong Guan Biscuit Factory Indonesia Ltd, PT;;24772;Khong Guan Biskuit Marie Cokelat;Khong Guan Biscuit Factory Indonesia Ltd, PT;;rdfs:seeAlso;0.8023684210526316
+25436;Kogen Biskuit Marie;Khong Guan Biscuit Factory Indonesia Ltd, PT;;24784;Kogen Biskuit dengan Krim Susu Rose Cream Biscuits ;Khong Guan Biscuit Factory Indonesia Ltd, PT;;rdfs:seeAlso;0.8911867905056761
+25436;Kogen Biskuit Marie;Khong Guan Biscuit Factory Indonesia Ltd, PT;;24828;Kogen Biskuit Susu Milk Shortcake ;Khong Guan Biscuit Factory Indonesia Ltd, PT;;owl:sameAs;0.9209907120743035
+25436;Kogen Biskuit Marie;Khong Guan Biscuit Factory Indonesia Ltd, PT;;25278;Kogen Biskuit Kelapa;Khong Guan Biscuit Factory Indonesia Ltd, PT;;owl:sameAs;0.9327368421052631
+9816;Caramel Color 034;D.D.Williamson Ingredients (Shanghai) Ltd.;;9565;Caramel Color 552;D.D.Williamson Ingredients (Shanghai) Ltd.;;owl:sameAs;0.943529411764706
+26438;LARUTAN PENYEGAR ESPE RASA LECI;Sinde Budi Sentosa, PT;;26533;LARUTAN PENYEGAR CAP BADAK 200 ML;Sinde Budi Sentosa, PT;;rdfs:seeAlso;0.8969012707722386
+26438;LARUTAN PENYEGAR ESPE RASA LECI;Sinde Budi Sentosa, PT;;26746;LARUTAN PENYEGAR ESPE RASA APEL;Sinde Budi Sentosa, PT;;owl:sameAs;0.973837597330367
+59173;compound ice cream emulsifying thickener LD 06A ;ZHEJIANG SYNOSE TECH CO., LTD.;;58620;compound vegetable protein drinks emulsifying thickener DR 17 ;ZHEJIANG SYNOSE TECH CO., LTD.;;rdfs:seeAlso;0.876958525345622
+59173;compound ice cream emulsifying thickener LD 06A ;ZHEJIANG SYNOSE TECH CO., LTD.;;58649;compound ice cream emulsifying thickener LD 1312 ;ZHEJIANG SYNOSE TECH CO., LTD.;;owl:sameAs;0.9769387755102041
+59173;compound ice cream emulsifying thickener LD 06A ;ZHEJIANG SYNOSE TECH CO., LTD.;;58708;compound ice cream bar emulsifying thickener LD 13 ;ZHEJIANG SYNOSE TECH CO., LTD.;;owl:sameAs;0.9285098039215687
+59173;compound ice cream emulsifying thickener LD 06A ;ZHEJIANG SYNOSE TECH CO., LTD.;;58761;compound ice cream bar emulsifying thickener LD 001 ;ZHEJIANG SYNOSE TECH CO., LTD.;;owl:sameAs;0.9296544035674472
+59173;compound ice cream emulsifying thickener LD 06A ;ZHEJIANG SYNOSE TECH CO., LTD.;;58807;compound vegetable protein drinks emulsifying thickener DR 10 ;ZHEJIANG SYNOSE TECH CO., LTD.;;rdfs:seeAlso;0.8803475868967243
+59173;compound ice cream emulsifying thickener LD 06A ;ZHEJIANG SYNOSE TECH CO., LTD.;;58869;compound ice cream bar emulsifying thickener DR 32L 1 ;ZHEJIANG SYNOSE TECH CO., LTD.;;owl:sameAs;0.9244122383252817
+35504;POP DRINGK Minuman Serbuk Instan Rasa Gula Asam;PT. Forisa Nusapersada;;29919;POP DRINGK Minuman Serbuk Instan Rasa Jeruk;PT. Forisa Nusapersada;;owl:sameAs;0.957882236516576
+35504;POP DRINGK Minuman Serbuk Instan Rasa Gula Asam;PT. Forisa Nusapersada;;35181;POP ICE Minuman Serbuk Mengandung Susu Rasa Coklat Susu;PT. Forisa Nusapersada;;rdfs:seeAlso;0.8826366785119879
+35504;POP DRINGK Minuman Serbuk Instan Rasa Gula Asam;PT. Forisa Nusapersada;;35578;POP DRINGK Minuman Serbuk Instan Rasa Jambu Biji;PT. Forisa Nusapersada;;owl:sameAs;0.9553596757852076
+35504;POP DRINGK Minuman Serbuk Instan Rasa Gula Asam;PT. Forisa Nusapersada;;35614;POP ICE Minuman Serbuk Mengandung Susu Rasa Durian;PT. Forisa Nusapersada;;rdfs:seeAlso;0.8824817851582771
+35504;POP DRINGK Minuman Serbuk Instan Rasa Gula Asam;PT. Forisa Nusapersada;;35675;POP DRINGK Minuman Serbuk Instan Rasa Anggur;PT. Forisa Nusapersada;;owl:sameAs;0.96281171863943
+35504;POP DRINGK Minuman Serbuk Instan Rasa Gula Asam;PT. Forisa Nusapersada;;40997;SISRI Minuman Serbuk Instan Rasa Teh Manis;PT. Forisa Nusapersada;;rdfs:seeAlso;0.7617561634582912
+32960;Niki Sari Saus Sambal Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;13816;Delicio Saus Rasa Tomat Botol Kaca Plastik ;PT. SUKA SARI MITRA MANDIRI;;rdfs:seeAlso;0.8092540072687548
+32960;Niki Sari Saus Sambal Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;13907;Delicio Saus Sambal Botol Kaca Plastik ;PT. SUKA SARI MITRA MANDIRI;;rdfs:seeAlso;0.7947933144489816
+32960;Niki Sari Saus Sambal Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;32944;Niki Sari Kecap Manis Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;owl:sameAs;0.9051707317073172
+32960;Niki Sari Saus Sambal Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;32945;Niki Sari Saus Sambal Botol Kaca Plastik ;PT. SUKA SARI MITRA MANDIRI;;owl:sameAs;01.00
+32960;Niki Sari Saus Sambal Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;44007;Suka Sari Saus Sambal Botol Kaca Plastik ;PT. SUKA SARI MITRA MANDIRI;;rdfs:seeAlso;0.8522036799315362
+32960;Niki Sari Saus Sambal Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;44198;Suka Sari Saus Rasa Tomat Botol Kaca Plastik ;PT. SUKA SARI MITRA MANDIRI;;rdfs:seeAlso;0.7993315266485999
+32960;Niki Sari Saus Sambal Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;44350;Suka Sari Saus Sambal Botol kaca plastik ;PT. SUKA SARI MITRA MANDIRI;;rdfs:seeAlso;0.8522036799315362
+34316;P102 Series BG01103 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34386;P102 Series BH00802 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9507692307692308
+34316;P102 Series BG01103 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34450;P102 Series BE00804 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9253146853146854
+34316;P102 Series BG01103 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34624;P101 Series AF0072 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;rdfs:seeAlso;0.889791452991453
+34316;P102 Series BG01103 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34703;P102 Series BP00203 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9630769230769232
+34316;P102 Series BG01103 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;34737;P102 Series BI01202 Series;PT Tudung Putra Putri Jaya - Ingredient Division;;owl:sameAs;0.9352508361204015
+45003;TEGO BETAIN L10 S;Evonik Sumi Asih, PT;;44887;TEGO AMID CNA;Evonik Sumi Asih, PT;;rdfs:seeAlso;0.8576973353443942
+45003;TEGO BETAIN L10 S;Evonik Sumi Asih, PT;;45098;TEGO BETAIN L7 KB5;Evonik Sumi Asih, PT;;owl:sameAs;0.9362091503267973
+20622;Hexos Bebas Gula Lemon Mint Lokal dan Ekspor ;KONIMEX, PT;;20231;Hexos Bebas Gula Teh Hijau Mint Lokal dan Ekspor ;KONIMEX, PT;;owl:sameAs;0.9323382556274542
+20622;Hexos Bebas Gula Lemon Mint Lokal dan Ekspor ;KONIMEX, PT;;20453;Hexos Lemon Mint Lokal dan Ekspor ;KONIMEX, PT;;rdfs:seeAlso;0.8950065359477124
+20622;Hexos Bebas Gula Lemon Mint Lokal dan Ekspor ;KONIMEX, PT;;20753;Hexos Bebas Gula Blackberry Mint Lokal dan Ekspor ;KONIMEX, PT;;owl:sameAs;0.9256380952380954
+32851|Nissin Wafer Krim Rasa Strawberry|Nissin Biscuit Indonesia, PT||33127|Nissin Wafer Krim Rasa Pisang|Nissin Biscuit Indonesia, PT||owl:sameAs|0.9391431556948799
+32851|Nissin Wafer Krim Rasa Strawberry|Nissin Biscuit Indonesia, PT||33153|Nissin Krekers Krim Cream Crackers |Nissin Biscuit Indonesia, PT||rdfs:seeAlso|0.8642978354978357
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||22346|John Farmer Almond Pasta Mix Chunky 02|GUNANUSA ERAMANDIRI, PT||rdfs:seeAlso|0.8643488721804513
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||22425|John Farmer Hazelnut Pasta 05|GUNANUSA ERAMANDIRI, PT||rdfs:seeAlso|0.8692234661889835
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||22480|John Farmer Choco Hazelnut Pasta|GUNANUSA ERAMANDIRI, PT||rdfs:seeAlso|0.8653602484472049
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||22489|John Farmer Hazelnut Butter Creamy|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9624353483328816
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||22568|John Farmer Almond Pasta 03|GUNANUSA ERAMANDIRI, PT||rdfs:seeAlso|0.86194708994709
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||23112|John Farmer Peanut Butter Chunky 07|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9542857142857144
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||23562|John Farmer Peanut Butter Creamy 19|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9817142857142858
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||23568|John Farmer Peanut Butter Creamy 10|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9817142857142858
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||23577|John Farmer Peanut Butter Creamy 06|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9817142857142858
+23611|John Farmer Peanut Butter Creamy 27|GUNANUSA ERAMANDIRI, PT||23586|John Farmer Peanut Butter Creamy 02|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9908571428571429
+21973|Isolated Soy Protein YP901Q|Shandong Yuwang Ecological Food Industry Co.,Ltd||21967|Isolated Soy Protein YP901K|Shandong Yuwang Ecological Food Industry Co.,Ltd||owl:sameAs|0.9881481481481482
+21973|Isolated Soy Protein YP901Q|Shandong Yuwang Ecological Food Industry Co.,Ltd||21969|Isolated Soy Protein YP901M|Shandong Yuwang Ecological Food Industry Co.,Ltd||owl:sameAs|0.9881481481481482
+21973|Isolated Soy Protein YP901Q|Shandong Yuwang Ecological Food Industry Co.,Ltd||21970|Isolated Soy Protein YP901L|Shandong Yuwang Ecological Food Industry Co.,Ltd||owl:sameAs|0.9881481481481482
+21973|Isolated Soy Protein YP901Q|Shandong Yuwang Ecological Food Industry Co.,Ltd||37689|Protein Soy Concentrated YP701C|Shandong Yuwang Ecological Food Industry Co.,Ltd||rdfs:seeAlso|0.7629072082835524
+21973|Isolated Soy Protein YP901Q|Shandong Yuwang Ecological Food Industry Co.,Ltd||37690|Protein Soy Concentrated YP701F|Shandong Yuwang Ecological Food Industry Co.,Ltd||rdfs:seeAlso|0.7629072082835524
+40514|SARDINES IN OIL MAXBELL|PT GEMA ISTA RAYA||40642|SARDINES IN OIL KHOSH|PT GEMA ISTA RAYA||owl:sameAs|0.9132091097308488
+21039|Hydrolyzed Vegetable Protein Powder HVP EB |Baoding Way Chein Food Industrial Co.,Ltd.||20948|Hydrolyzed Vegetable Protein Powder HVP ET |Baoding Way Chein Food Industrial Co.,Ltd.||owl:sameAs|0.9925581395348837
+21039|Hydrolyzed Vegetable Protein Powder HVP EB |Baoding Way Chein Food Industrial Co.,Ltd.||21012|Hydrolyzed Vegetable Protein Powder HVP IO |Baoding Way Chein Food Industrial Co.,Ltd.||owl:sameAs|0.9851162790697674
+33799|Original Love Juice Minuman Buah Apel Less Sugar |HALE INTERNATIONAL, PT||33813|Original Love Juice Minuman Buah Jeruk Favorit |HALE INTERNATIONAL, PT||owl:sameAs|0.9298564859659086
+38869|Robust Nutmeg Oleoresin|Prasan Solutions (India) Pvt. Ltd.||33552|Robust Garlic Oil|Prasan Solutions (India) Pvt. Ltd.||rdfs:seeAlso|0.8620184930159354
+38869|Robust Nutmeg Oleoresin|Prasan Solutions (India) Pvt. Ltd.||38832|Robust Mace Oleoresin|Prasan Solutions (India) Pvt. Ltd.||owl:sameAs|0.9569358178053831
+38869|Robust Nutmeg Oleoresin|Prasan Solutions (India) Pvt. Ltd.||38941|Robust Ginger Oil|Prasan Solutions (India) Pvt. Ltd.||rdfs:seeAlso|0.8828576300085251
+38869|Robust Nutmeg Oleoresin|Prasan Solutions (India) Pvt. Ltd.||38979|Robust Pink Colour|Prasan Solutions (India) Pvt. Ltd.||rdfs:seeAlso|0.8732643202208419
+38869|Robust Nutmeg Oleoresin|Prasan Solutions (India) Pvt. Ltd.||39072|Robust Cassia Oleoresin|Prasan Solutions (India) Pvt. Ltd.||rdfs:seeAlso|0.8741687979539643
+38869|Robust Nutmeg Oleoresin|Prasan Solutions (India) Pvt. Ltd.||39147|Robust Yellow Paprika Oleoresin|Prasan Solutions (India) Pvt. Ltd.||rdfs:seeAlso|0.8670095059996885
+38869|Robust Nutmeg Oleoresin|Prasan Solutions (India) Pvt. Ltd.||39266|Robust Davana Oil|Prasan Solutions (India) Pvt. Ltd.||rdfs:seeAlso|0.8630861040068203
+38869|Robust Nutmeg Oleoresin|Prasan Solutions (India) Pvt. Ltd.||39296|Robust Purple Colour|Prasan Solutions (India) Pvt. Ltd.||rdfs:seeAlso|0.8608198757763976
+27700|Legian Lapisse Mocca|Kelinci Mas||27104|Legian Lapisse Cranberry|Kelinci Mas||owl:sameAs|0.9293333333333333
+27700|Legian Lapisse Mocca|Kelinci Mas||42407|Sewu Lapisse Mocca|Kelinci Mas||rdfs:seeAlso|0.7822222222222224
+24794|Kimbo Sosis Sapi Lada Hitam|MADUSARI NUSAPERDANA, PT.||16591|Fino Sosis Sapi|MADUSARI NUSAPERDANA, PT.||rdfs:seeAlso|0.8261728395061729
+24794|Kimbo Sosis Sapi Lada Hitam|MADUSARI NUSAPERDANA, PT.||24691|Kimbo Chatz Sosis Ikan Siap Makan Rasa Otak otak|MADUSARI NUSAPERDANA, PT.||rdfs:seeAlso|0.8602814814814816
+24794|Kimbo Sosis Sapi Lada Hitam|MADUSARI NUSAPERDANA, PT.||24711|Kimbo Sosis Sapi dan Ayam Rasa Hot Spicy|MADUSARI NUSAPERDANA, PT.||owl:sameAs|0.9103817663817664
+24794|Kimbo Sosis Sapi Lada Hitam|MADUSARI NUSAPERDANA, PT.||25324|Kimbo Sosis Ayam Siap Makan Rasa Hot Spicy|MADUSARI NUSAPERDANA, PT.||rdfs:seeAlso|0.8881862433862435
+24794|Kimbo Sosis Sapi Lada Hitam|MADUSARI NUSAPERDANA, PT.||47597|Vigo Sosis Sapi Panjang isi 30|MADUSARI NUSAPERDANA, PT.||rdfs:seeAlso|0.8044444444444445
+37404|Pusan Muffin Rasa Pandan|PUSAN MANIS MULIA, PT||37744|Pusan Muffin|PUSAN MANIS MULIA, PT||owl:sameAs|0.9200000000000002
+17029|Fortius Wafer Krim Rasa Cokelat dan Vanila Chocolate Vanilla Wafer Cream|Intim Harmonis Foods Industri, PT||17004|Fortius Wafer Krim Rasa Cokelat dan Kacang Chocolate Peanut Wafer Cream|Intim Harmonis Foods Industri, PT||owl:sameAs|0.9439475743348984
+20718|Haldin Mangosteen Rind Glycolic Extract|Haldin Pacific Semesta,PT||20104|Haldin Yohimbee Glycolic Extract|Haldin Pacific Semesta,PT||rdfs:seeAlso|0.8915605658709107
+20718|Haldin Mangosteen Rind Glycolic Extract|Haldin Pacific Semesta,PT||20272|Haldin Mangosteen SD Powde|Haldin Pacific Semesta,PT||owl:sameAs|0.9056410256410257
+20718|Haldin Mangosteen Rind Glycolic Extract|Haldin Pacific Semesta,PT||20467|Haldin Garlic Powder Extract|Haldin Pacific Semesta,PT||rdfs:seeAlso|0.8710212454212456
+9697|COCO DARK CHOCOLATE COATED CRANBERRY|NETWORK FOODS INDUSTRIES SDN BHD||10018|COCO MILK CHOCO RICE CEREAL|NETWORK FOODS INDUSTRIES SDN BHD||rdfs:seeAlso|0.8802576489533012
+9697|COCO DARK CHOCOLATE COATED CRANBERRY|NETWORK FOODS INDUSTRIES SDN BHD||9539|COCO DARK CHOCOLATE COATED HAZEL|NETWORK FOODS INDUSTRIES SDN BHD||owl:sameAs|0.953888888888889
+9697|COCO DARK CHOCOLATE COATED CRANBERRY|NETWORK FOODS INDUSTRIES SDN BHD||9589|COCO DARK CHOCOLATE COATED MACADAMIA|NETWORK FOODS INDUSTRIES SDN BHD||owl:sameAs|0.9322605363984675
+9697|COCO DARK CHOCOLATE COATED CRANBERRY|NETWORK FOODS INDUSTRIES SDN BHD||9711|COCO DARK CHOCOLATE COATED ALMOND|NETWORK FOODS INDUSTRIES SDN BHD||owl:sameAs|0.9494949494949496
+20430|Haldin Temu Giring Extract|Haldin Pacific Semesta,PT||20060|Haldin Tamarind Liquid Extract|Haldin Pacific Semesta,PT||owl:sameAs|0.9059442586399109
+20430|Haldin Temu Giring Extract|Haldin Pacific Semesta,PT||20269|Haldin Lerak Glycolic Extract|Haldin Pacific Semesta,PT||rdfs:seeAlso|0.8694217506631301
+20430|Haldin Temu Giring Extract|Haldin Pacific Semesta,PT||20524|Haldin Cumin|Haldin Pacific Semesta,PT||rdfs:seeAlso|0.8798135198135197
+20430|Haldin Temu Giring Extract|Haldin Pacific Semesta,PT||20559|Haldin Melon Liquid Extract|Haldin Pacific Semesta,PT||owl:sameAs|0.9130277130277131
+11716|Choice L Bumbu Rendang padang|PT Pristine Prima Lestari||11338|Choice L Bumbu Ayam Goreng|PT Pristine Prima Lestari||owl:sameAs|0.9240871871756431
+11716|Choice L Bumbu Rendang padang|PT Pristine Prima Lestari||11565|Choice L Bumbu Semur|PT Pristine Prima Lestari||owl:sameAs|0.9003813387423936
+11716|Choice L Bumbu Rendang padang|PT Pristine Prima Lestari||11613|Choice L Bumbu Sayur Asem|PT Pristine Prima Lestari||rdfs:seeAlso|0.8983448275862069
+11716|Choice L Bumbu Rendang padang|PT Pristine Prima Lestari||11744|Choice L Bumbu Gulai|PT Pristine Prima Lestari||owl:sameAs|0.9003813387423936
+17482|GOLDEN LOTUS Chemie ERYTHROSINE FD C RED 3 |PT Bukit Warna Abadi||17147|GOLDEN LOTUS Chemie D C RED 34 Ca LAKE|PT Bukit Warna Abadi||owl:sameAs|0.9113066095471236
+17482|GOLDEN LOTUS Chemie ERYTHROSINE FD C RED 3 |PT Bukit Warna Abadi||17164|GOLDEN LOTUS Chemie INDIGO CARMINE FD C BLUE 2 |PT Bukit Warna Abadi||rdfs:seeAlso|0.899667208595462
+17482|GOLDEN LOTUS Chemie ERYTHROSINE FD C RED 3 |PT Bukit Warna Abadi||17452|GOLDEN LOTUS Chemie EGG YELLOW GL 01|PT Bukit Warna Abadi||rdfs:seeAlso|0.8915762273901808
+17482|GOLDEN LOTUS Chemie ERYTHROSINE FD C RED 3 |PT Bukit Warna Abadi||18246|GOLDEN LOTUS Chemie URANINE D C YELLOW 8 |PT Bukit Warna Abadi||owl:sameAs|0.9109592606185981
+24861|Keripik Wader Keju Manis WEMA |PKOPUNR WEMA||24130|Keripik Cetul Sambel Balado WEMA |PKOPUNR WEMA||rdfs:seeAlso|0.8776969696969699
+24861|Keripik Wader Keju Manis WEMA |PKOPUNR WEMA||24414|Keripik Cetul Jagung Manis WEMA |PKOPUNR WEMA||owl:sameAs|0.9063333333333334
+24861|Keripik Wader Keju Manis WEMA |PKOPUNR WEMA||24493|Keripik Belut Pedas WEMA |PKOPUNR WEMA||rdfs:seeAlso|0.8844952380952382
+24861|Keripik Wader Keju Manis WEMA |PKOPUNR WEMA||25334|Keripik Udang Jagung Manis WEMA |PKOPUNR WEMA||owl:sameAs|0.9031333333333333
+11293|Chocolate Coated Crunch|Inventive Food Technology Ltd||11445|Chocolate Malt Crunch|Inventive Food Technology Ltd||owl:sameAs|0.9232516072790673
+23139|KIBIF Beef Breakfast Sausage|PT. De Glow International||23180|KIBIF Chicken Breakfast Sausage|PT. De Glow International||owl:sameAs|0.9326894009216591
+23139|KIBIF Beef Breakfast Sausage|PT. De Glow International||24717|Kibif Meat Ball Super|PT. De Glow International||rdfs:seeAlso|0.8690196078431374
+23139|KIBIF Beef Breakfast Sausage|PT. De Glow International||25181|Kibif Beef Pepperoni|PT. De Glow International||rdfs:seeAlso|0.8605714285714285
+23139|KIBIF Beef Breakfast Sausage|PT. De Glow International||67783|kibif Beef Burger Bulgogi|PT. De Glow International||rdfs:seeAlso|0.8624134453781513
+33741|Oleoresin of Star Anise NE0033|Xumei(Kaifeng) Bio Technology Co.,Ltd||34234|Oleoresin of Capsicum NE0073|Xumei(Kaifeng) Bio Technology Co.,Ltd||owl:sameAs|0.9048658008658008
+33741|Oleoresin of Star Anise NE0033|Xumei(Kaifeng) Bio Technology Co.,Ltd||43807|Star Anise Essential Oil NE0035|Xumei(Kaifeng) Bio Technology Co.,Ltd||rdfs:seeAlso|0.7975627240143368
+12532|Creamfill Instant Cheese|FEDERAL FOOD INTERNUSA, PT||11937|Creamfill Instant Banana|FEDERAL FOOD INTERNUSA, PT||owl:sameAs|0.9200000000000002
+12532|Creamfill Instant Cheese|FEDERAL FOOD INTERNUSA, PT||12244|Creamfill Instant Sarikaya|FEDERAL FOOD INTERNUSA, PT||owl:sameAs|0.9235897435897436
+12532|Creamfill Instant Cheese|FEDERAL FOOD INTERNUSA, PT||12283|Creamfill Instant Chocolate|FEDERAL FOOD INTERNUSA, PT||owl:sameAs|0.9444444444444444
+23480|KANEKA Filling Cheese Series|PT. Kaneka Foods Indonesia||23047|KANEKA Filling Coffee Series|PT. Kaneka Foods Indonesia||owl:sameAs|0.9433142857142858
+23480|KANEKA Filling Cheese Series|PT. Kaneka Foods Indonesia||23102|KANEKA Filling Vanilla Series|PT. Kaneka Foods Indonesia||owl:sameAs|0.9052754142409316
+23480|KANEKA Filling Cheese Series|PT. Kaneka Foods Indonesia||23507|KANEKA Filling Mango Series|PT. Kaneka Foods Indonesia||owl:sameAs|0.9106301106301107
+23480|KANEKA Filling Cheese Series|PT. Kaneka Foods Indonesia||23517|KANEKA Filling Passion Fruit Series|PT. Kaneka Foods Indonesia||rdfs:seeAlso|0.8922236024844721
+23480|KANEKA Filling Cheese Series|PT. Kaneka Foods Indonesia||23551|KANEKA Filling Jackfruit Series|PT. Kaneka Foods Indonesia||owl:sameAs|0.9057904227609697
+43369|Squash Berperisa Mangga Superindo 365|INKENAS AGUNG, PT||42681|Sirup Berperisa Cocopandan Superindo 365|INKENAS AGUNG, PT||rdfs:seeAlso|0.7945945945945947
+43369|Squash Berperisa Mangga Superindo 365|INKENAS AGUNG, PT||43337|Squash Berperisa Jeruk Value Plus Premium|INKENAS AGUNG, PT||rdfs:seeAlso|0.8662035393742713
+43369|Squash Berperisa Mangga Superindo 365|INKENAS AGUNG, PT||43391|Squash Berperisa Mangga Value Plus Premium|INKENAS AGUNG, PT||owl:sameAs|0.91408477602026
+43369|Squash Berperisa Mangga Superindo 365|INKENAS AGUNG, PT||43574|Squash Berperisa Anggur Yoa Food|INKENAS AGUNG, PT||owl:sameAs|0.9210810810810812
+27008|L agie Panda Cokelat Compound Butir|FAJAR MATARAM SEDAYU, PT||26456|L agie Cokelat Compound Hitam Bread Filling |FAJAR MATARAM SEDAYU, PT||rdfs:seeAlso|0.8878268398268399
+27008|L agie Panda Cokelat Compound Butir|FAJAR MATARAM SEDAYU, PT||26518|L agie Sonny Cokelat Compound Butir|FAJAR MATARAM SEDAYU, PT||owl:sameAs|0.9427834101382488
+27008|L agie Panda Cokelat Compound Butir|FAJAR MATARAM SEDAYU, PT||26608|L agie Sinar Cokelat Compound Butir Aneka Warna|FAJAR MATARAM SEDAYU, PT||rdfs:seeAlso|0.8850157502072395
+27008|L agie Panda Cokelat Compound Butir|FAJAR MATARAM SEDAYU, PT||26687|L agie Intan Cokelat Compound Butir Aneka Warna|FAJAR MATARAM SEDAYU, PT||rdfs:seeAlso|0.8922884774799669
+27008|L agie Panda Cokelat Compound Butir|FAJAR MATARAM SEDAYU, PT||26792|L agie Flamboyant Cokelat Compound Putih Manis Rasa Vanila|FAJAR MATARAM SEDAYU, PT||rdfs:seeAlso|0.8774569689944944
+27008|L agie Panda Cokelat Compound Butir|FAJAR MATARAM SEDAYU, PT||26960|L agie Badak Cokelat Compound Susu Manis Isi Enting Enting Kacang|FAJAR MATARAM SEDAYU, PT||rdfs:seeAlso|0.8708757908757909
+7301|Breader 63082|Saritama Food Processing, PT||36619|Predust 63081|Saritama Food Processing, PT||rdfs:seeAlso|0.7948717948717949
+7301|Breader 63082|Saritama Food Processing, PT||5841|Battermix 63085|Saritama Food Processing, PT||rdfs:seeAlso|0.8034871794871794
+7301|Breader 63082|Saritama Food Processing, PT||7308|Breader 63086|Saritama Food Processing, PT||owl:sameAs|0.9753846153846155
+31823|Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant |Sinar Sosro, PT||26318|Minuman teh rasa stroberi kemasan karton laminat Sosro Fruit tea Stroberi |Sinar Sosro, PT||owl:sameAs|0.9031152204836415
+31823|Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant |Sinar Sosro, PT||31597|Minuman teh rasa apel blackcurrant kemasan botol PET Sosro Fruit tea x treme |Sinar Sosro, PT||owl:sameAs|0.9118281870684617
+31823|Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant |Sinar Sosro, PT||31601|Minuman teh hijau aroma melati kemasan botol PET Joy Tea Jasmine |Sinar Sosro, PT||rdfs:seeAlso|0.8692102971507143
+31823|Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant |Sinar Sosro, PT||31677|Minuman teh tawar kemasan PET Teh botol sosro unsweetened |Sinar Sosro, PT||rdfs:seeAlso|0.8677180636319863
+31823|Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant |Sinar Sosro, PT||31826|Minuman teh melati kemasan botol kaca Teh Botol Sosro |Sinar Sosro, PT||rdfs:seeAlso|0.8744655289016192
+31823|Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant |Sinar Sosro, PT||31827|Minuman teh rasa stroberi dan anggur sensasi dingin kurang gula kemasan botol PET Sosro Fruit tea freeze less sugar |Sinar Sosro, PT||rdfs:seeAlso|0.864783397774797
+31823|Minuman teh rasa blackcurrat kemasan botol PET Sosro Fruit tea Blackcurrant |Sinar Sosro, PT||31990|Minuman teh berkarbonasi rasa mix fruit kemasan botol kaca Tebs |Sinar Sosro, PT||rdfs:seeAlso|0.8947613737734166
+41053|SWANISH Roti Manis Coklat|PT SWANISH BOGA INDUSTRIA||40905|SWANISH Roti Manis Coklat Keju|PT SWANISH BOGA INDUSTRIA||owl:sameAs|0.9733333333333334
+41053|SWANISH Roti Manis Coklat|PT SWANISH BOGA INDUSTRIA||40929|SWANISH Sandwich Krim Keju|PT SWANISH BOGA INDUSTRIA||rdfs:seeAlso|0.8722072874493927
+41053|SWANISH Roti Manis Coklat|PT SWANISH BOGA INDUSTRIA||41019|SWANISH Roti Manis Sarikaya|PT SWANISH BOGA INDUSTRIA||owl:sameAs|0.9312253968253967
+41053|SWANISH Roti Manis Coklat|PT SWANISH BOGA INDUSTRIA||44202|Swanish Ayam Lada Hitam|PT SWANISH BOGA INDUSTRIA||rdfs:seeAlso|0.868704347826087
+3010|ANNATTO LIQUID WS 1607020 CI 75120 E 160b|GRACIA TRIKREASI PANGAN, PT||3219|ANNATTO LIQUID OS 1607018 CI 75120 E 160b|GRACIA TRIKREASI PANGAN, PT||owl:sameAs|0.9534274711168165
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17142|GOLDEN LOTUS Chemie NATURAL WHITE 351|PT Bukit Warna Abadi||rdfs:seeAlso|0.8897232464848657
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17180|GOLDEN LOTUS Chemie TARTRAZINE FD C YELLOW 5 CO YT 01 |PT Bukit Warna Abadi||rdfs:seeAlso|0.8858928493711102
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17184|GOLDEN LOTUS Chemie PINK RED 164 WS|PT Bukit Warna Abadi||rdfs:seeAlso|0.8974906832298137
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17203|GOLDEN LOTUS Chemie DARK GREEN LAKE 04555|PT Bukit Warna Abadi||owl:sameAs|0.9121202669827211
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17271|GOLDEN LOTUS Chemie SUNSET YELLOW LAKE SSYP|PT Bukit Warna Abadi||rdfs:seeAlso|0.8566003819795529
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17304|GOLDEN LOTUS Chemie DARK BLACK GL 269|PT Bukit Warna Abadi||owl:sameAs|0.9608930669800235
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17335|GOLDEN LOTUS Chemie CARMOISINE CO RC 01 |PT Bukit Warna Abadi||rdfs:seeAlso|0.8883478260869566
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17512|GOLDEN LOTUS Chemie OPAQUE WHITE GL 05|PT Bukit Warna Abadi||rdfs:seeAlso|0.8891817249270102
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||17644|GOLDEN LOTUS Chemie D C RED 33 LAVANYA HEBE |PT Bukit Warna Abadi||rdfs:seeAlso|0.8851679841897233
+17606|GOLDEN LOTUS Chemie DARK BLACK GL 24 FI 150612|PT Bukit Warna Abadi||18555|GOLDEN LOTUS Chemie TARTRAZINE SKT 175|PT Bukit Warna Abadi||rdfs:seeAlso|0.8891817249270102
+31051|Minuman Serbuk Rasa Jeruk Blackcurrant SEGAR SARI|MORINAGA KINO INDONESIA, PT||30802|Minuman Serbuk Instan Berkarbonat Rasa Jeruk SEGAR SARI FRENTA|MORINAGA KINO INDONESIA, PT||owl:sameAs|0.9021789188793798
+31051|Minuman Serbuk Rasa Jeruk Blackcurrant SEGAR SARI|MORINAGA KINO INDONESIA, PT||31216|Minuman Serbuk Instan Berkarbonat Rasa Permen Karet SEGAR SARI FRENTA|MORINAGA KINO INDONESIA, PT||rdfs:seeAlso|0.8736066802858657
+31051|Minuman Serbuk Rasa Jeruk Blackcurrant SEGAR SARI|MORINAGA KINO INDONESIA, PT||31279|Minuman Serbuk Rasa Jeruk SEGAR SARI|MORINAGA KINO INDONESIA, PT||owl:sameAs|0.9397732426303855
+49289| CAPTAIN S CATCH TUNA SPREAD 185 GM|PT. BLAMBANGAN FOODPACKERS INDONESIA||49256| CAPTAIN S CATCH TUNA CHUNKS IN BRINE 95 GM|PT. BLAMBANGAN FOODPACKERS INDONESIA||owl:sameAs|0.915437430786268
+15304|FAT BASE POWDER 52404|Drytech Processes (I) Pvt. Ltd.||15308|FAT BASE POWDER 52402|Drytech Processes (I) Pvt. Ltd.||owl:sameAs|0.9847619047619047
+19743|Hakiki Ovalet|PT Hakiki Donarta||19399|Hakiki Pewarna Oranye|PT Hakiki Donarta||rdfs:seeAlso|0.8632673992673994
+19743|Hakiki Ovalet|PT Hakiki Donarta||19613|Hakiki VX|PT Hakiki Donarta||owl:sameAs|0.9206837606837608
+36256|Pazar Bumbu Nasi Uduk|PT Pristine Prima Lestari||35905|Pazar Bumbu Ayam Kalasan|PT Pristine Prima Lestari||rdfs:seeAlso|0.899327731092437
+36256|Pazar Bumbu Nasi Uduk|PT Pristine Prima Lestari||36123|Pazar Bumbu Pepes Ikan|PT Pristine Prima Lestari||owl:sameAs|0.9213852813852814
+36256|Pazar Bumbu Nasi Uduk|PT Pristine Prima Lestari||36451|Pazar Sereh Bubuk|PT Pristine Prima Lestari||rdfs:seeAlso|0.8767851756087051
+18071|GROUND NUTMEG STERILE|INDOHARVEST SPICE, PT||18117|GROUND CARDAMOM NON STERILE|INDOHARVEST SPICE, PT||rdfs:seeAlso|0.8679116090880796
+18071|GROUND NUTMEG STERILE|INDOHARVEST SPICE, PT||18172|GROUND NUTMEG EXTRA TOPO STERILE|INDOHARVEST SPICE, PT||owl:sameAs|0.9221428571428572
+18071|GROUND NUTMEG STERILE|INDOHARVEST SPICE, PT||18236|GROUND CASSIA STERILE|INDOHARVEST SPICE, PT||rdfs:seeAlso|0.881904761904762
+47983|WHOLE GROUND CRUSHED CAPER|Synthite Industries Ltd||47698|WHOLE GROUND CRUSHED MARJORAM|Synthite Industries Ltd||owl:sameAs|0.9484350132625996
+28354|Longjon Keju|CV. FLAMBOYAN KARYA LESTARI||28320|Longjon Coklat|CV. FLAMBOYAN KARYA LESTARI||owl:sameAs|0.9028571428571428
+30148|Marimas Melon|MARIMAS PUTERA KENCANA, PT||29995|Marimas Frambose|MARIMAS PUTERA KENCANA, PT||owl:sameAs|0.9108391608391608
+30148|Marimas Melon|MARIMAS PUTERA KENCANA, PT||30170|Marimas Teh rasa Lemon|MARIMAS PUTERA KENCANA, PT||owl:sameAs|0.9149650349650349
+27683|Lautan Krimer LK 02 HF|LAUTAN NATURAL KRIMERINDO, PT||21512|Lautan Krimer LK 32 CH|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9709090909090909
+27683|Lautan Krimer LK 02 HF|LAUTAN NATURAL KRIMERINDO, PT||27176|Lautan Krimer LK 35 CM|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9418181818181819
+27683|Lautan Krimer LK 02 HF|LAUTAN NATURAL KRIMERINDO, PT||27220|Lautan Krimer LK 35 FA|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9563636363636365
+27683|Lautan Krimer LK 02 HF|LAUTAN NATURAL KRIMERINDO, PT||27300|Lautan Krimer LK35 BA|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9331601731601731
+27683|Lautan Krimer LK 02 HF|LAUTAN NATURAL KRIMERINDO, PT||27360|Lautan Krimer LK 28 CH|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9709090909090909
+27683|Lautan Krimer LK 02 HF|LAUTAN NATURAL KRIMERINDO, PT||27367|Lautan Krimer LK 28 CA|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9563636363636365
+31367|Monde Kukis|Nissin Biscuit Indonesia, PT||31686|Monde Kukis Butter Cookies |Nissin Biscuit Indonesia, PT||owl:sameAs|0.9051851851851853
+14205|Duta Sari buah nanas dalam kaleng 227g 270g 567g 836g 3050g |Great Giant Pineapple, PT||14529|Duta Sari buah nanas dan markisa dengan serat nanas dan nata de coco dalam kaleng 227g 270g 567g 836g 3050g |Great Giant Pineapple, PT||rdfs:seeAlso|0.8888888888888891
+14205|Duta Sari buah nanas dalam kaleng 227g 270g 567g 836g 3050g |Great Giant Pineapple, PT||14811|Duta Hancuran nanas dalam jus dalam kaleng 227g 270g 567g 836g 3050g |Great Giant Pineapple, PT||owl:sameAs|0.9070904547726137
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||22344|John Farmer Almond Pasta Mix Chunky 01|GUNANUSA ERAMANDIRI, PT||rdfs:seeAlso|0.8783557928638022
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||22407|John Farmer Frappucinno Almond Butter Chunky|GUNANUSA ERAMANDIRI, PT||rdfs:seeAlso|0.8649158249158251
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||22483|John Farmer Almond Butter Chunky|GUNANUSA ERAMANDIRI, PT||rdfs:seeAlso|0.8785185185185185
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||22617|John Farmer Hazelnut Pasta Chunky|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9185858585858586
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||22699|John Farmer Cashew Butter Chunky|GUNANUSA ERAMANDIRI, PT||rdfs:seeAlso|0.8751587301587302
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||23025|John Farmer Peanut Pasta Chunky 05|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9457952069716777
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||23271|John Farmer Peanut Pasta 01|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9881481481481482
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||23568|John Farmer Peanut Butter Creamy 10|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9110043708304578
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||23576|John Farmer Peanut Butter Creamy 16|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9219365079365078
+23252|John Farmer Peanut Pasta 16|GUNANUSA ERAMANDIRI, PT||23596|John Farmer Peanut Butter Creamy 30|GUNANUSA ERAMANDIRI, PT||owl:sameAs|0.9000327080327082
+41512|STABIFIL DURIAN|Pachira Distrinusa, PT||40944|STABIFIL PISANG COKELAT|Pachira Distrinusa, PT||rdfs:seeAlso|0.8914782608695653
+41512|STABIFIL DURIAN|Pachira Distrinusa, PT||41306|STABIFIL KACANG|Pachira Distrinusa, PT||owl:sameAs|0.9146666666666667
+11837|Chocolate Stick|Freyabadi Indotama, PT||11425|Chocolate Cream YY |Freyabadi Indotama, PT||rdfs:seeAlso|0.8899649122807018
+11837|Chocolate Stick|Freyabadi Indotama, PT||11727|Chocolate Drops|Freyabadi Indotama, PT||owl:sameAs|0.9146666666666667
+25083|Kibif Sosis Sapi|PT. De Glow International||23381|KIBIF Sosis Sapi Rasa Semur|PT. De Glow International||owl:sameAs|0.9348148148148148
+25083|Kibif Sosis Sapi|PT. De Glow International||23429|KIBIF Sosis Beef Weiner|PT. De Glow International||owl:sameAs|0.9004347826086956
+25083|Kibif Sosis Sapi|PT. De Glow International||24954|Kibif Sosis Sapi Kombinasi|PT. De Glow International||owl:sameAs|0.9384615384615385
+25083|Kibif Sosis Sapi|PT. De Glow International||25115|Kibif Bakso Premium|PT. De Glow International||rdfs:seeAlso|0.8677192982456141
+25083|Kibif Sosis Sapi|PT. De Glow International||25273|Kibif Bakso Sapi|PT. De Glow International||rdfs:seeAlso|0.8969230769230769
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34307|P102 Series BC01801 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9289510489510489
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34333|P102 Series BC01111 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9156043956043958
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34362|P101 Series AA0012 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9031247863247864
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34408|P102 Series BC02801 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9387290969899666
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34537|P101 Series AF0031 Series|PT Tudung Putra Putri Jaya - Ingredient Division||rdfs:seeAlso|0.8915897435897437
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34640|P102 Series BE01101 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9434965034965035
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34703|P102 Series BP00203 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9520512820512821
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34738|P102 Series BA04002 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9520512820512821
+34488|P102 Series BI00902 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34892|P102 Series BM00201 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9520512820512821
+32367|NUMBRO WAFER KRIM RASA DURIAN|PT JAVAINDO MAJU SEJAHTERA||32354|NUMBRO WAFER RASA STROBERI|PT JAVAINDO MAJU SEJAHTERA||rdfs:seeAlso|0.8984261715296198
+32367|NUMBRO WAFER KRIM RASA DURIAN|PT JAVAINDO MAJU SEJAHTERA||33307|Numbro Wafer Krim Rasa Hazelnut|PT JAVAINDO MAJU SEJAHTERA||owl:sameAs|0.9484110550183964
+17429|GOLDEN LOTUS Chemie RED 2 G|PT Bukit Warna Abadi||17158|GOLDEN LOTUS Chemie INDIGO CARMINE LAKE LS MS HS FD C BLUE 2 LAKE |PT Bukit Warna Abadi||rdfs:seeAlso|0.8786428386428387
+17429|GOLDEN LOTUS Chemie RED 2 G|PT Bukit Warna Abadi||17320|GOLDEN LOTUS Chemie ERYTHROSINE GL 266|PT Bukit Warna Abadi||owl:sameAs|0.9312400659769082
+17429|GOLDEN LOTUS Chemie RED 2 G|PT Bukit Warna Abadi||17443|GOLDEN LOTUS Chemie APPLE GREEN WS|PT Bukit Warna Abadi||owl:sameAs|0.9297952069716777
+17429|GOLDEN LOTUS Chemie RED 2 G|PT Bukit Warna Abadi||17615|GOLDEN LOTUS Chemie SUNSET YELLOW LAKE HS 203|PT Bukit Warna Abadi||owl:sameAs|0.9008888888888889
+17429|GOLDEN LOTUS Chemie RED 2 G|PT Bukit Warna Abadi||17713|GOLDEN LOTUS Chemie ERYTHROSINE LAKE LS MS HS|PT Bukit Warna Abadi||owl:sameAs|0.9008888888888889
+17429|GOLDEN LOTUS Chemie RED 2 G|PT Bukit Warna Abadi||17775|GOLDEN LOTUS Chemie SUNSET YELLOW LAKE 356|PT Bukit Warna Abadi||owl:sameAs|0.903915343915344
+17429|GOLDEN LOTUS Chemie RED 2 G|PT Bukit Warna Abadi||17985|GOLDEN LOTUS Chemie WINTER GREEN TBM|PT Bukit Warna Abadi||owl:sameAs|0.9264592592592593
+46898|Tulip Chocolatier White Compound Chips|Freyabadi Indotama, PT||46717|Tulip Chocolatier Dark Chocolate Chips|Freyabadi Indotama, PT||owl:sameAs|0.9219736842105264
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||21518|Lautan Krimer LK 32 CJ|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9418181818181819
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||27041|Lautan Krimer LK 32 CM|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9418181818181819
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||27051|Lautan Krimer LK 32 CB|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9418181818181819
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||27053|Lautan Krimer LK 32 CA|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9418181818181819
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||27080|Lautan Krimer LK 03 LF|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9709090909090909
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||27224|Lautan Krimer LK 35 FC|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9563636363636365
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||27355|Lautan Krimer LK 28 CE|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9418181818181819
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||27360|Lautan Krimer LK 28 CH|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9563636363636365
+21508|Lautan Krimer LK 07 HF|LAUTAN NATURAL KRIMERINDO, PT||27752|Lautan Krimer LK 10 LF|LAUTAN NATURAL KRIMERINDO, PT||owl:sameAs|0.9709090909090909
+18312|GOLDEN LOTUS Chemie VIOLET 964|PT Bukit Warna Abadi||17117|GOLDEN LOTUS Chemie CARAMEL TYPE IV POWDER|PT Bukit Warna Abadi||owl:sameAs|0.9061164021164021
+18312|GOLDEN LOTUS Chemie VIOLET 964|PT Bukit Warna Abadi||17305|GOLDEN LOTUS Chemie COKELAT HT 31|PT Bukit Warna Abadi||owl:sameAs|0.9281454545454546
+18312|GOLDEN LOTUS Chemie VIOLET 964|PT Bukit Warna Abadi||17360|GOLDEN LOTUS Chemie SUNSET YELLOW FCF LAKE LS MS HS FD C YELLOW 6 |PT Bukit Warna Abadi||rdfs:seeAlso|0.857939393939394
+18312|GOLDEN LOTUS Chemie VIOLET 964|PT Bukit Warna Abadi||17615|GOLDEN LOTUS Chemie SUNSET YELLOW LAKE HS 203|PT Bukit Warna Abadi||rdfs:seeAlso|0.8862222222222222
+18312|GOLDEN LOTUS Chemie VIOLET 964|PT Bukit Warna Abadi||17772|GOLDEN LOTUS Chemie LAVANYA SHYMA GL 166|PT Bukit Warna Abadi||rdfs:seeAlso|0.8973333333333333
+18312|GOLDEN LOTUS Chemie VIOLET 964|PT Bukit Warna Abadi||17775|GOLDEN LOTUS Chemie SUNSET YELLOW LAKE 356|PT Bukit Warna Abadi||owl:sameAs|0.9023296703296704
+32818|NUMBRO WAFER RASA VANILLA|PT JAVAINDO MAJU SEJAHTERA||13002|DHONE WAFER RASA VANILLA|PT JAVAINDO MAJU SEJAHTERA||rdfs:seeAlso|0.885904761904762
+32818|NUMBRO WAFER RASA VANILLA|PT JAVAINDO MAJU SEJAHTERA||33005|Numbro Wafer Krim Selai Kacang|PT JAVAINDO MAJU SEJAHTERA||owl:sameAs|0.9126787878787879
+31338|Minuman Serbuk Mochaccino|PT CIPTA HARUM LESTARI||30644|Minuman Serbuk Kopi Arum Co|PT CIPTA HARUM LESTARI||owl:sameAs|0.9197968253968254
+31338|Minuman Serbuk Mochaccino|PT CIPTA HARUM LESTARI||31312|Minuman Serbuk Choco Cookies and Cream|PT CIPTA HARUM LESTARI||owl:sameAs|0.911319298245614
+9436|CANNED TUNA IN VEGETABLE OIL AMERICANA |PT. BANYUWANGI CANNERY INDONESIA||8988|CANNED TUNA IN VEGETABLE OIL PACIFIC KING |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9395992243051068
+9436|CANNED TUNA IN VEGETABLE OIL AMERICANA |PT. BANYUWANGI CANNERY INDONESIA||9077|CANNED TUNA IN VEGETABLE OIL TUNATUN |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9446604296604297
+9436|CANNED TUNA IN VEGETABLE OIL AMERICANA |PT. BANYUWANGI CANNERY INDONESIA||9096|CANNED TUNA IN BRINE ASAHI |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9083122507122507
+9436|CANNED TUNA IN VEGETABLE OIL AMERICANA |PT. BANYUWANGI CANNERY INDONESIA||9345|CANNED TUNA IN VEGETABLE OIL DOLLY |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9402197802197803
+9436|CANNED TUNA IN VEGETABLE OIL AMERICANA |PT. BANYUWANGI CANNERY INDONESIA||9346|CANNED TUNA IN VEGETABLE OIL BARAKA |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9705982905982906
+9436|CANNED TUNA IN VEGETABLE OIL AMERICANA |PT. BANYUWANGI CANNERY INDONESIA||9409|CANNED SARDINES IN VEGETABLE OIL CLASSY |PT. BANYUWANGI CANNERY INDONESIA||rdfs:seeAlso|0.8792820512820514
+9436|CANNED TUNA IN VEGETABLE OIL AMERICANA |PT. BANYUWANGI CANNERY INDONESIA||9449|CANNED TUNA IN VEGETABLE OIL SIBLUE |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9485042735042735
+31049|Mie Kering Burung Dara BD Mtist |PT. SURYA PRATISTA HUTAMA||30772|Mie Kering Burung Dara Doro Mas Doro Mas |PT. SURYA PRATISTA HUTAMA||owl:sameAs|0.929268292682927
+31049|Mie Kering Burung Dara BD Mtist |PT. SURYA PRATISTA HUTAMA||30779|Mie Kering Burung Dara BD 44 |PT. SURYA PRATISTA HUTAMA||owl:sameAs|0.9639655172413792
+31049|Mie Kering Burung Dara BD Mtist |PT. SURYA PRATISTA HUTAMA||30824|Mie Kering Burung Dara Mie Lebar |PT. SURYA PRATISTA HUTAMA||owl:sameAs|0.9443290043290045
+29777|MORIN Selai Stroberi Strawberry Jam In Syrup |ASTAGUNA  WISESA, PT||29612|MORIN Selai Stroberi Strawberry Jam |ASTAGUNA  WISESA, PT||owl:sameAs|0.968
+10913|Cassia Vera AA Cut and Washed|CV. NTC Spice||10474|Cassia Vera A Cuttings|CV. NTC Spice||owl:sameAs|0.9230094043887147
+10913|Cassia Vera AA Cut and Washed|CV. NTC Spice||10669|Cassia Vera A Stick|CV. NTC Spice||owl:sameAs|0.9075392334792356
+18511|GO Wafer Roll dengan Krim Rasa Cokelat dan Pisang |PT. SIANTAR TOP, TBK||17977|GO Wafer Roll dengan Krim Rasa Cokelat |PT. SIANTAR TOP, TBK||owl:sameAs|0.9648000000000001
+18511|GO Wafer Roll dengan Krim Rasa Cokelat dan Pisang |PT. SIANTAR TOP, TBK||18142|GO Wafer Roll dengan Krim Rasa Vanilla |PT. SIANTAR TOP, TBK||owl:sameAs|0.937221898821899
+23353|Juice United Minuman Rasa Buah dan Sayuran Merah|BERRI INDOSARI,PT||23068|Juice United Minuman Rasa Buah dan Sayuran Hijau|BERRI INDOSARI,PT||owl:sameAs|0.9764444444444444
+23353|Juice United Minuman Rasa Buah dan Sayuran Merah|BERRI INDOSARI,PT||23095|Juice United Minuman Rasa Buah Jambu|BERRI INDOSARI,PT||owl:sameAs|0.9397385620915033
+23353|Juice United Minuman Rasa Buah dan Sayuran Merah|BERRI INDOSARI,PT||23620|Juice United minuman rasa jeruk no added sugar|BERRI INDOSARI,PT||owl:sameAs|0.921036789297659
+23353|Juice United Minuman Rasa Buah dan Sayuran Merah|BERRI INDOSARI,PT||44301|Starbucks Minuman Saribuah Campuran Banana Mix |BERRI INDOSARI,PT||rdfs:seeAlso|0.7740431921282986
+32278|NATIONAL 1465|Ingredion China Limited||32112|NATIONAL DC|Ingredion China Limited||owl:sameAs|0.9216783216783218
+32278|NATIONAL 1465|Ingredion China Limited||32121|NATIONAL 740|Ingredion China Limited||owl:sameAs|0.9364102564102565
+32278|NATIONAL 1465|Ingredion China Limited||32509|NATIONAL FRIGEX|Ingredion China Limited||rdfs:seeAlso|0.8867692307692308
+38176|RED BEAN PASTE WITH SKIN JA52KF|BEIJING KYO-NICHI TODAI FOODS CO.,LTD.||38097|RED BEAN PASTE WITH SKIN A62H|BEIJING KYO-NICHI TODAI FOODS CO.,LTD.||owl:sameAs|0.9683203559510567
+38176|RED BEAN PASTE WITH SKIN JA52KF|BEIJING KYO-NICHI TODAI FOODS CO.,LTD.||38198|RED BEAN PASTE WITH SKIN JAQ18|BEIJING KYO-NICHI TODAI FOODS CO.,LTD.||owl:sameAs|0.9633548387096775
+38176|RED BEAN PASTE WITH SKIN JA52KF|BEIJING KYO-NICHI TODAI FOODS CO.,LTD.||38223|RED BEAN PASTE WITH SKIN A58S|BEIJING KYO-NICHI TODAI FOODS CO.,LTD.||owl:sameAs|0.9683203559510567
+38176|RED BEAN PASTE WITH SKIN JA52KF|BEIJING KYO-NICHI TODAI FOODS CO.,LTD.||38505|RED BEAN PASTE WITH SKIN JA56RF1|BEIJING KYO-NICHI TODAI FOODS CO.,LTD.||owl:sameAs|0.9746774193548389
+21061|Hydrolyzed Vegetable Protein Powder HVP MR |Baoding Way Chein Food Industrial Co.,Ltd.||20858|Hydrolyzed Vegetable Protein Powder HVP IW |Baoding Way Chein Food Industrial Co.,Ltd.||owl:sameAs|0.9851162790697674
+21061|Hydrolyzed Vegetable Protein Powder HVP MR |Baoding Way Chein Food Industrial Co.,Ltd.||20952|Hydrolyzed Vegetable Protein Powder HVP MN |Baoding Way Chein Food Industrial Co.,Ltd.||owl:sameAs|0.9925581395348837
+21061|Hydrolyzed Vegetable Protein Powder HVP MR |Baoding Way Chein Food Industrial Co.,Ltd.||20970|Hydrolyzed Vegetable Protein Powder HVP MO |Baoding Way Chein Food Industrial Co.,Ltd.||owl:sameAs|0.9925581395348837
+21061|Hydrolyzed Vegetable Protein Powder HVP MR |Baoding Way Chein Food Industrial Co.,Ltd.||21370|Hydrolyzed Vegetable Protein Powder HVP MP|Baoding Way Chein Food Industrial Co.,Ltd.||owl:sameAs|0.98874861572536
+21061|Hydrolyzed Vegetable Protein Powder HVP MR |Baoding Way Chein Food Industrial Co.,Ltd.||21381|Hydrolyzed Vegetable Protein Powder HVP LK|Baoding Way Chein Food Industrial Co.,Ltd.||owl:sameAs|0.981218161683278
+26362|LARUTAN PENYEGAR ESPE RASA ANGGUR|Sinde Budi Sentosa, PT||26571|LARUTAN PENYEGAR CAP BADAK 500 ML|Sinde Budi Sentosa, PT||rdfs:seeAlso|0.8856389986824771
+26362|LARUTAN PENYEGAR ESPE RASA ANGGUR|Sinde Budi Sentosa, PT||26709|LARUTAN PENYEGAR ESPE RASA MELON|Sinde Budi Sentosa, PT||owl:sameAs|0.9557575757575758
+37985|RBD PALM OIL VEGETABLE OIL |PT Multimas Nabati Asahan||38252|RBD PALM OIL SF PALM OIL |PT Multimas Nabati Asahan||rdfs:seeAlso|0.8985185185185185
+37985|RBD PALM OIL VEGETABLE OIL |PT Multimas Nabati Asahan||38446|RBD PALM OIL POLIVA BAKER FAT |PT Multimas Nabati Asahan||owl:sameAs|0.9041803542673108
+37985|RBD PALM OIL VEGETABLE OIL |PT Multimas Nabati Asahan||38619|RBD PALM OLEIN RENYAAH |PT Multimas Nabati Asahan||rdfs:seeAlso|0.8801780808941935
+49446| Kellogg Special K|Kellogg (Thailand) Ltd||48906| Kellogg Corn Flakes|Kellogg (Thailand) Ltd||owl:sameAs|0.9013333333333335
+16613|Fish Patties Nikmat|PT. SOEJASCH BALI||11063|Fish Fingers Nikmat|PT. SOEJASCH BALI||owl:sameAs|0.911298245614035
+23795|Keripik Cetul Sapi Panggang WEMA |PKOPUNR WEMA||24181|Keripik Cetul WEMA |PKOPUNR WEMA||owl:sameAs|0.9110685805422649
+23795|Keripik Cetul Sapi Panggang WEMA |PKOPUNR WEMA||24234|Keripik Belut WEMA |PKOPUNR WEMA||rdfs:seeAlso|0.8877405635300373
+23795|Keripik Cetul Sapi Panggang WEMA |PKOPUNR WEMA||24401|Keripik Belut Sapi Panggang WEMA |PKOPUNR WEMA||owl:sameAs|0.9853030303030303
+23795|Keripik Cetul Sapi Panggang WEMA |PKOPUNR WEMA||25334|Keripik Udang Jagung Manis WEMA |PKOPUNR WEMA||owl:sameAs|0.9044276094276096
+23795|Keripik Cetul Sapi Panggang WEMA |PKOPUNR WEMA||25396|Keripik Udang Keju WEMA |PKOPUNR WEMA||rdfs:seeAlso|0.8663030303030304
+4666|Andros coconut frozen puree 49421329|Beijing Andros Fruit Company Ltd.,China||3902|Andros Caramelized Apple Gourmet Sauce 49482701|Beijing Andros Fruit Company Ltd.,China||rdfs:seeAlso|0.8622852639873917
+4666|Andros coconut frozen puree 49421329|Beijing Andros Fruit Company Ltd.,China||4312|Andros frozen lychee puree 49421327|Beijing Andros Fruit Company Ltd.,China||owl:sameAs|0.9055982484948004
+4666|Andros coconut frozen puree 49421329|Beijing Andros Fruit Company Ltd.,China||4540|Andros frozen passion puree 49421320 01|Beijing Andros Fruit Company Ltd.,China||owl:sameAs|0.9097435897435899
+32176|NON DAIRY CREAMER 32475|Drytech Processes (I) Pvt. Ltd.||32170|NON DAIRY CREAMER 32474|Drytech Processes (I) Pvt. Ltd.||owl:sameAs|0.9860869565217392
+43440|Sop Durian Topping Almond|Durian Kunyil||43047|Sop Durian Topping Kelapa|Durian Kunyil||owl:sameAs|0.9411809523809525
+43440|Sop Durian Topping Almond|Durian Kunyil||43630|Sop Durian Topping Alpukat|Durian Kunyil||owl:sameAs|0.9436307692307693
+8120|Bumbu Tabur Abon Kuch2 Hotahu |PPKOPKDS KUCH KUCH HOTAHU||8217|Bumbu Tabur Pizza Kuch2 Hotahu |PPKOPKDS KUCH KUCH HOTAHU||owl:sameAs|0.9366881720430109
+3145|Abon Sapi Cap Bonvie|CV. Lancar Jaya Food||3217|Abon Sapi Cap SPT|CV. Lancar Jaya Food||owl:sameAs|0.923764705882353
+3145|Abon Sapi Cap Bonvie|CV. Lancar Jaya Food||3550|Abon Sapi Cap Louhan|CV. Lancar Jaya Food||owl:sameAs|0.9360000000000002
+8640|Butter Kukis Kelapa New Mirasa|Mirasa Magelang, PR||8115|Butter Kukis Vanilla New Mirasa|Mirasa Magelang, PR||owl:sameAs|0.9337252090800479
+28652|MATRIX POMELO FLAVOUR EXTRACT|MATRIX||28246|MATRIX ADLAY FLAVOUR|MATRIX||rdfs:seeAlso|0.8909695740365111
+28652|MATRIX POMELO FLAVOUR EXTRACT|MATRIX||28589|MATRIX PEANUT FLAVOUR|MATRIX||rdfs:seeAlso|0.8832737014951171
+28652|MATRIX POMELO FLAVOUR EXTRACT|MATRIX||28754|MATRIX LAMB FLAVOUR|MATRIX||owl:sameAs|0.9042226255293406
+20243|Haldin Lemongrass Glycolic Extract|Haldin Pacific Semesta,PT||20374|Haldin Rose Glycolic Extract|Haldin Pacific Semesta,PT||owl:sameAs|0.9174789915966388
+27804|Low Temperature Food Grade Soy Flake YP5088|Shandong Yuwang Ecological Food Industry Co.,Ltd||28367|Low Temperature Food Grade Soy Flour|Shandong Yuwang Ecological Food Industry Co.,Ltd||owl:sameAs|0.9494573643410853
+4439|Aneka Olahan Hasil Laut Niki Sae Aneka Ikan Asin Ikan Samge|NIKI SAE||4454|Aneka Olahan Hasil Laut Niki Sae Aneka Ikan Asin Udang Rebon|NIKI SAE||owl:sameAs|0.9674777150031388
+29344|MORINAGA CHIL KID REGULAR VANILA|PT. Sanghiang Perkasa||31366|Morinaga Chil Kid P HP|PT. Sanghiang Perkasa||owl:sameAs|0.9131818181818183
+29344|MORINAGA CHIL KID REGULAR VANILA|PT. Sanghiang Perkasa||31378|Morinaga Chil School Soya|PT. Sanghiang Perkasa||rdfs:seeAlso|0.8643882352941177
+18006|Galicol Dark Black|Galic Bina Mada, PT||17916|Galicol Dark Brown RQ|Galic Bina Mada, PT||owl:sameAs|0.9111111111111112
+18006|Galicol Dark Black|Galic Bina Mada, PT||18062|Galicol Red Tomato|Galic Bina Mada, PT||rdfs:seeAlso|0.8666666666666667
+18006|Galicol Dark Black|Galic Bina Mada, PT||18327|Galicol Grape|Galic Bina Mada, PT||rdfs:seeAlso|0.875965811965812
+47694|WHOLE GROUND CRUSHED PEPPER WHITE|Synthite Industries Ltd||47522|WHOLE GROUND CRUSHED CAMBODGE|Synthite Industries Ltd||owl:sameAs|0.9080459770114944
+47694|WHOLE GROUND CRUSHED PEPPER WHITE|Synthite Industries Ltd||47572|WHOLE GROUND CRUSHED FENNEL SMALL|Synthite Industries Ltd||owl:sameAs|0.9127272727272728
+32296|NUGET BENTUK IKAN|PPRINKDL LANGGENG||32595|NUGET BENTUK CINTA|PPRINKDL LANGGENG||owl:sameAs|0.9628104575163399
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34336|P102 Series BA03302 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9507692307692308
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34360|P102 Series BB02102 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9561204013377926
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34506|P102 Series BR00501 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9553846153846155
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34601|P102 Series BA03501 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9630769230769232
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34676|P102 Series BG00903 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9630769230769232
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34697|P102 Series BA04301 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9630769230769232
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34811|P102 Series BG01403 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9561204013377926
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34830|P102 Series BC02601 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9630769230769232
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34886|P102 Series BB01102 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9561204013377926
+34782|P102 Series BQ00701 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34984|P102 Series BA04102 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9561204013377926
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||10069|Caramel Color SRC P750|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.948051948051948
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9548|Caramel Color SRC4430|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9695238095238095
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9555|Caramel Color SRC3212 HV|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9430075187969924
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9705|Caramel Color SRC3340 LV|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9514285714285715
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9745|Caramel Color SRC3220|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9695238095238095
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9749|Caramel Color SRC P149|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9545226703121441
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9774|Caramel Color SRC3260|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9695238095238095
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9900|Caramel Color SRC1100|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9695238095238095
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9955|Caramel Color SRC CS1|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9542857142857144
+9782|Caramel Color SRC4120|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||9967|Caramel Color SRC3380|Sethness Roquette Food Ingredients (Lianyungang) Co.,Ltd||owl:sameAs|0.9542857142857144
+37574|Pronas Kornet Daging Sapi Classic Rasa Keju |Canning Indonesian Products, PT||32096|Pronas Kornet Daging Sapi Classic Rasa Original |Canning Indonesian Products, PT||owl:sameAs|0.9587878787878787
+37574|Pronas Kornet Daging Sapi Classic Rasa Keju |Canning Indonesian Products, PT||37353|Pronas Kornet Daging Sapi Kombinasi|Canning Indonesian Products, PT||owl:sameAs|0.9155670995670995
+37574|Pronas Kornet Daging Sapi Classic Rasa Keju |Canning Indonesian Products, PT||37684|Pronas Rendang Daging Sapi|Canning Indonesian Products, PT||rdfs:seeAlso|0.8599574338704774
+37574|Pronas Kornet Daging Sapi Classic Rasa Keju |Canning Indonesian Products, PT||37749|Pronas Kornet Daging Sapi Classic|Canning Indonesian Products, PT||owl:sameAs|0.96
+39983|Roti Electro Bake Crushing Orange BECB14 BO 02 04D |SRIBOGA BAKERIES INTEGRA, PT||39968|Roti Oven Bake Crushing White BOA1 BWNR |SRIBOGA BAKERIES INTEGRA, PT||rdfs:seeAlso|0.8591372549019609
+39983|Roti Electro Bake Crushing Orange BECB14 BO 02 04D |SRIBOGA BAKERIES INTEGRA, PT||40075|Roti Electro Bake Crushing White BW 07 04 |SRIBOGA BAKERIES INTEGRA, PT||owl:sameAs|0.9211951447245565
+10954|Cassava Chips Maxi Sea Salt|Maxindo Karya Anugerah, PT||10748|Cassava Crackers Maxi Hot Spicy|Maxindo Karya Anugerah, PT||owl:sameAs|0.9106581476286946
+32889|Nissin Biskuit Mini Stick |Nissin Biscuit Indonesia, PT||32914|Nissin Biskuit Krim Rasa Mentega|Nissin Biscuit Indonesia, PT||owl:sameAs|0.9191471571906356
+32889|Nissin Biskuit Mini Stick |Nissin Biscuit Indonesia, PT||33159|Nissin Krekers Mini Stick Crackers |Nissin Biscuit Indonesia, PT||rdfs:seeAlso|0.8595164835164837
+3115|ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MIXED TROPICAL DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO MIXED TROPICAL FLAVOUR|NUTRIVO DAIRY INDUSTRY (M) SDN.BHD||2917|ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MANGO ATROGEN YOGURT DRINK MANGO FLAVOUR |NUTRIVO DAIRY INDUSTRY (M) SDN.BHD||owl:sameAs|0.9063356871632589
+3115|ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MIXED TROPICAL DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO MIXED TROPICAL FLAVOUR|NUTRIVO DAIRY INDUSTRY (M) SDN.BHD||3369|ATROGEN MINUMAN SUSU KULTUR DENGAN JUS BUAH BUAHAN PERISA ORANGE ATROGEN CULTURED MILK DRINK ORANGE FLAVOUR |NUTRIVO DAIRY INDUSTRY (M) SDN.BHD||rdfs:seeAlso|0.867520846044336
+3115|ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MIXED TROPICAL DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO MIXED TROPICAL FLAVOUR|NUTRIVO DAIRY INDUSTRY (M) SDN.BHD||3400|ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA STRAWBERRY DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO STRAWBERRY FLAVOUR |NUTRIVO DAIRY INDUSTRY (M) SDN.BHD||owl:sameAs|0.9236146502141398
+3115|ATROGEN MINUMAN YOGURT DENGAN JUS BUAH BUAHAN PERISA MIXED TROPICAL DENGAN NATA DE COCO ATROGEN YOGURT DRINK WITH NATA DE COCO MIXED TROPICAL FLAVOUR|NUTRIVO DAIRY INDUSTRY (M) SDN.BHD||3709|ATROGEN MINUMAN SUSU KULTUR DENGAN JUS BUAH BUAHAN PERISA APPLE ATROGEN CULTURE MILK DRINK APPLE FLAVOUR |NUTRIVO DAIRY INDUSTRY (M) SDN.BHD||rdfs:seeAlso|0.8563737268470273
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||8987|CANNED TUNA IN VEGETABLE OIL OMQ AL MOHET |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9352831402831403
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9090|CANNED TUNA IN VEGETABLE OIL ALMADINA |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9543773438510281
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9096|CANNED TUNA IN BRINE ASAHI |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9074562562562563
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9149|CANNED TUNA IN VEGETABLE OIL ALMAMLAKA |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9412335412335413
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9222|CANNED TUNA SALAD SUNNARA |PT. BANYUWANGI CANNERY INDONESIA||rdfs:seeAlso|0.8657558657558659
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9263|CANNED TUNA HOT SPICY DOLLY |PT. BANYUWANGI CANNERY INDONESIA||rdfs:seeAlso|0.8607722007722007
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9290|CANNED TUNA IN VEGETABLE OIL FI |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.969054054054054
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9345|CANNED TUNA IN VEGETABLE OIL DOLLY |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9468725868725869
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9360|CANNED TUNA IN VEGETABLE OIL APPETITOSO |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9536152623211447
+9260|CANNED TUNA IN VEGETABLE OIL TRITUNA |PT. BANYUWANGI CANNERY INDONESIA||9449|CANNED TUNA IN VEGETABLE OIL SIBLUE |PT. BANYUWANGI CANNERY INDONESIA||owl:sameAs|0.9606006006006007
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34317|P102 Series BC00307 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.940397202797203
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34339|P101 Series AG0012 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9616
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34450|P102 Series BE00804 Series|PT Tudung Putra Putri Jaya - Ingredient Division||rdfs:seeAlso|0.8869230769230769
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34482|P101 Series AA0032 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9872000000000001
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34528|P102 Series BA01201 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9022153846153846
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34554|P102 Series BO00702 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9342358974358975
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34703|P102 Series BP00203 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9342358974358975
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34724|P102 Series BH00502 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9195897435897435
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34792|P102 Series BH00413 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9342358974358975
+34507|P101 Series AA0073 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34982|P102 Series BE00503 Series|PT Tudung Putra Putri Jaya - Ingredient Division||rdfs:seeAlso|0.898680341880342
+18443|Geboooyku Kornet Daging Ayam Kornet Bentuk Udang |PETRA SEJAHTERA ABADI, PT||18248|Geboooyku Naget Ayam Bentuk Hati|PETRA SEJAHTERA ABADI, PT||rdfs:seeAlso|0.8820309414088217
+18443|Geboooyku Kornet Daging Ayam Kornet Bentuk Udang |PETRA SEJAHTERA ABADI, PT||18375|Geboooyku Kornet Daging Ayam Bentuk Lolly |PETRA SEJAHTERA ABADI, PT||owl:sameAs|0.9341066953097028
+25436|Kogen Biskuit Marie|Khong Guan Biscuit Factory Indonesia Ltd, PT||24772|Khong Guan Biskuit Marie Cokelat|Khong Guan Biscuit Factory Indonesia Ltd, PT||rdfs:seeAlso|0.8023684210526316
+25436|Kogen Biskuit Marie|Khong Guan Biscuit Factory Indonesia Ltd, PT||24784|Kogen Biskuit dengan Krim Susu Rose Cream Biscuits |Khong Guan Biscuit Factory Indonesia Ltd, PT||rdfs:seeAlso|0.8911867905056761
+25436|Kogen Biskuit Marie|Khong Guan Biscuit Factory Indonesia Ltd, PT||24828|Kogen Biskuit Susu Milk Shortcake |Khong Guan Biscuit Factory Indonesia Ltd, PT||owl:sameAs|0.9209907120743035
+25436|Kogen Biskuit Marie|Khong Guan Biscuit Factory Indonesia Ltd, PT||25278|Kogen Biskuit Kelapa|Khong Guan Biscuit Factory Indonesia Ltd, PT||owl:sameAs|0.9327368421052631
+9816|Caramel Color 034|D.D.Williamson Ingredients (Shanghai) Ltd.||9565|Caramel Color 552|D.D.Williamson Ingredients (Shanghai) Ltd.||owl:sameAs|0.943529411764706
+26438|LARUTAN PENYEGAR ESPE RASA LECI|Sinde Budi Sentosa, PT||26533|LARUTAN PENYEGAR CAP BADAK 200 ML|Sinde Budi Sentosa, PT||rdfs:seeAlso|0.8969012707722386
+26438|LARUTAN PENYEGAR ESPE RASA LECI|Sinde Budi Sentosa, PT||26746|LARUTAN PENYEGAR ESPE RASA APEL|Sinde Budi Sentosa, PT||owl:sameAs|0.973837597330367
+59173|compound ice cream emulsifying thickener LD 06A |ZHEJIANG SYNOSE TECH CO., LTD.||58620|compound vegetable protein drinks emulsifying thickener DR 17 |ZHEJIANG SYNOSE TECH CO., LTD.||rdfs:seeAlso|0.876958525345622
+59173|compound ice cream emulsifying thickener LD 06A |ZHEJIANG SYNOSE TECH CO., LTD.||58649|compound ice cream emulsifying thickener LD 1312 |ZHEJIANG SYNOSE TECH CO., LTD.||owl:sameAs|0.9769387755102041
+59173|compound ice cream emulsifying thickener LD 06A |ZHEJIANG SYNOSE TECH CO., LTD.||58708|compound ice cream bar emulsifying thickener LD 13 |ZHEJIANG SYNOSE TECH CO., LTD.||owl:sameAs|0.9285098039215687
+59173|compound ice cream emulsifying thickener LD 06A |ZHEJIANG SYNOSE TECH CO., LTD.||58761|compound ice cream bar emulsifying thickener LD 001 |ZHEJIANG SYNOSE TECH CO., LTD.||owl:sameAs|0.9296544035674472
+59173|compound ice cream emulsifying thickener LD 06A |ZHEJIANG SYNOSE TECH CO., LTD.||58807|compound vegetable protein drinks emulsifying thickener DR 10 |ZHEJIANG SYNOSE TECH CO., LTD.||rdfs:seeAlso|0.8803475868967243
+59173|compound ice cream emulsifying thickener LD 06A |ZHEJIANG SYNOSE TECH CO., LTD.||58869|compound ice cream bar emulsifying thickener DR 32L 1 |ZHEJIANG SYNOSE TECH CO., LTD.||owl:sameAs|0.9244122383252817
+35504|POP DRINGK Minuman Serbuk Instan Rasa Gula Asam|PT. Forisa Nusapersada||29919|POP DRINGK Minuman Serbuk Instan Rasa Jeruk|PT. Forisa Nusapersada||owl:sameAs|0.957882236516576
+35504|POP DRINGK Minuman Serbuk Instan Rasa Gula Asam|PT. Forisa Nusapersada||35181|POP ICE Minuman Serbuk Mengandung Susu Rasa Coklat Susu|PT. Forisa Nusapersada||rdfs:seeAlso|0.8826366785119879
+35504|POP DRINGK Minuman Serbuk Instan Rasa Gula Asam|PT. Forisa Nusapersada||35578|POP DRINGK Minuman Serbuk Instan Rasa Jambu Biji|PT. Forisa Nusapersada||owl:sameAs|0.9553596757852076
+35504|POP DRINGK Minuman Serbuk Instan Rasa Gula Asam|PT. Forisa Nusapersada||35614|POP ICE Minuman Serbuk Mengandung Susu Rasa Durian|PT. Forisa Nusapersada||rdfs:seeAlso|0.8824817851582771
+35504|POP DRINGK Minuman Serbuk Instan Rasa Gula Asam|PT. Forisa Nusapersada||35675|POP DRINGK Minuman Serbuk Instan Rasa Anggur|PT. Forisa Nusapersada||owl:sameAs|0.96281171863943
+35504|POP DRINGK Minuman Serbuk Instan Rasa Gula Asam|PT. Forisa Nusapersada||40997|SISRI Minuman Serbuk Instan Rasa Teh Manis|PT. Forisa Nusapersada||rdfs:seeAlso|0.7617561634582912
+32960|Niki Sari Saus Sambal Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||13816|Delicio Saus Rasa Tomat Botol Kaca Plastik |PT. SUKA SARI MITRA MANDIRI||rdfs:seeAlso|0.8092540072687548
+32960|Niki Sari Saus Sambal Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||13907|Delicio Saus Sambal Botol Kaca Plastik |PT. SUKA SARI MITRA MANDIRI||rdfs:seeAlso|0.7947933144489816
+32960|Niki Sari Saus Sambal Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||32944|Niki Sari Kecap Manis Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||owl:sameAs|0.9051707317073172
+32960|Niki Sari Saus Sambal Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||32945|Niki Sari Saus Sambal Botol Kaca Plastik |PT. SUKA SARI MITRA MANDIRI||owl:sameAs|1.0
+32960|Niki Sari Saus Sambal Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||44007|Suka Sari Saus Sambal Botol Kaca Plastik |PT. SUKA SARI MITRA MANDIRI||rdfs:seeAlso|0.8522036799315362
+32960|Niki Sari Saus Sambal Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||44198|Suka Sari Saus Rasa Tomat Botol Kaca Plastik |PT. SUKA SARI MITRA MANDIRI||rdfs:seeAlso|0.7993315266485999
+32960|Niki Sari Saus Sambal Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||44350|Suka Sari Saus Sambal Botol kaca plastik |PT. SUKA SARI MITRA MANDIRI||rdfs:seeAlso|0.8522036799315362
+34316|P102 Series BG01103 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34386|P102 Series BH00802 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9507692307692308
+34316|P102 Series BG01103 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34450|P102 Series BE00804 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9253146853146854
+34316|P102 Series BG01103 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34624|P101 Series AF0072 Series|PT Tudung Putra Putri Jaya - Ingredient Division||rdfs:seeAlso|0.889791452991453
+34316|P102 Series BG01103 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34703|P102 Series BP00203 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9630769230769232
+34316|P102 Series BG01103 Series|PT Tudung Putra Putri Jaya - Ingredient Division||34737|P102 Series BI01202 Series|PT Tudung Putra Putri Jaya - Ingredient Division||owl:sameAs|0.9352508361204015
+45003|TEGO BETAIN L10 S|Evonik Sumi Asih, PT||44887|TEGO AMID CNA|Evonik Sumi Asih, PT||rdfs:seeAlso|0.8576973353443942
+45003|TEGO BETAIN L10 S|Evonik Sumi Asih, PT||45098|TEGO BETAIN L7 KB5|Evonik Sumi Asih, PT||owl:sameAs|0.9362091503267973
+20622|Hexos Bebas Gula Lemon Mint Lokal dan Ekspor |KONIMEX, PT||20231|Hexos Bebas Gula Teh Hijau Mint Lokal dan Ekspor |KONIMEX, PT||owl:sameAs|0.9323382556274542
+20622|Hexos Bebas Gula Lemon Mint Lokal dan Ekspor |KONIMEX, PT||20453|Hexos Lemon Mint Lokal dan Ekspor |KONIMEX, PT||rdfs:seeAlso|0.8950065359477124
+20622|Hexos Bebas Gula Lemon Mint Lokal dan Ekspor |KONIMEX, PT||20753|Hexos Bebas Gula Blackberry Mint Lokal dan Ekspor |KONIMEX, PT||owl:sameAs|0.9256380952380954
