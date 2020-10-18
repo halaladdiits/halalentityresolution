@@ -1,0 +1,31 @@
+Entity Source;Entity Source ID;Entity Target;Entity Target ID;Cosine Similarity;Jaro Similarity;Relevance
+Energen rasa kacang hijau;15391;Loenpia Basah;27717;0.9950491189956665;0.5617948717948719;0
+Energen rasa kacang hijau;15391;Belvita Susu dan Sereal;7099;0.9939892888069153;0.5115942028985507;0
+Energen rasa kacang hijau;15391;Otak Otak Bandeng HJ Suryati ;33781;0.9934254884719849;0.6181473968897904;0
+Energen rasa kacang hijau;15391;foods pacific limited lemon rice;63396;0.9933586120605469;0.4359722222222222;0
+Energen rasa kacang hijau;15391;MAZOLA MINYAK JAGUNG;28721;0.9930240511894226;0.5544444444444445;0
+Energen rasa kacang hijau;15391;Rumah Ayam Jakarta Chickens Frozen Food Ayam Ungkep;39460;0.9929957389831543;0.5807189542483661;0
+Energen rasa kacang hijau;15391;Yeast Peptone;48518;0.992983341217041;0.46329670329670325;0
+Energen rasa kacang hijau;15391;Original Love Juice Sirsak;33985;0.9929422736167908;0.5923076923076923;0
+Energen rasa kacang hijau;15391;Rengginan Gurih;38769;0.9928631782531738;0.6211111111111111;0
+Energen rasa kacang hijau;15391;Phosphoric Acid;37079;0.9928550720214844;0.43555555555555553;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Wafer Krim Keju;32981;0.9835596084594727;0.8878787878787879;1
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Kastengel Kukis Keju;32955;0.9795796871185303;0.6168878325741072;0
+Nissin Wafer Krim Rasa Strawberry;32851;Khong Guan Biskuit Coklat Cocoa Puff ;25311;0.9787184000015259;0.48665028665028665;0
+Nissin Wafer Krim Rasa Strawberry;32851;Monde Krekers Rasa Pedas;31660;0.9786292910575867;0.5921717171717171;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Krekers Rasa Kelapa Coconut Crackers ;33510;0.9783895611763;0.8251515151515152;1
+Nissin Wafer Krim Rasa Strawberry;32851;Monde Kukis;31367;0.9781373143196106;0.4646464646464647;0
+Nissin Wafer Krim Rasa Strawberry;32851;belvita belvita fruhstuck;53926;0.9773015379905701;0.5034343434343435;0
+Nissin Wafer Krim Rasa Strawberry;32851;Longlive Xylitol;28477;0.9757735133171082;0.4633838383838384;0
+Nissin Wafer Krim Rasa Strawberry;32851;BUDDY BUDDY MINUMAN BERPERISA DENGAN NATA DECOCO LECI FLAVOURED DRINK WITH NATA DECOCO LYCHEE ;6229;0.9749886989593506;0.5343120236737259;0
+Nissin Wafer Krim Rasa Strawberry;32851;MILKITA PERMEN SUSU RASA CAPPUCINO;28518;0.974663496017456;0.598098633392751;0
+John Farmer Peanut Pasta 16;23252;John Farmer Peanut Pasta 09;23276;0.9849292039871216;0.9703703703703704;1
+John Farmer Peanut Pasta 16;23252;Indomaret Kacang Kulit Roasted Peanut In Shell ;22072;0.9823293089866638;0.6145446358212315;0
+John Farmer Peanut Pasta 16;23252;Kerupuk Rambak Sapi Merk Rambaku Rasa Original;25250;0.9796181917190552;0.529143380379527;0
+John Farmer Peanut Pasta 16;23252;John Farmer Peanut Butter Chunky 04;23106;0.9794516563415527;0.8755555555555556;1
+John Farmer Peanut Pasta 16;23252;John Farmer Honey Butter Coated Cashew Whole Split LWP SWP Chopped ;22641;0.9781750440597534;0.6737407968210478;0
+John Farmer Peanut Pasta 16;23252;lipton clear green big pack 4x10 sachets;70720;0.9780657291412354;0.630246913580247;0
+John Farmer Peanut Pasta 16;23252;FF300144;15689;0.9776859283447266;0.3873456790123457;0
+John Farmer Peanut Pasta 16;23252;Saus Sambal KFC;42225;0.9775630831718445;0.48007054673721344;0
+John Farmer Peanut Pasta 16;23252;John Farmer Peanut Pasta 18;23262;0.9768916368484497;0.9851851851851852;1
+John Farmer Peanut Pasta 16;23252;chinos coklat banana chips;57938;0.9767715930938721;0.5666123999457332;0

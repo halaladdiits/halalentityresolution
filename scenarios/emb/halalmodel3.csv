@@ -1,0 +1,30 @@
+Entity Source;Entity Source ID;Entity Target;Entity Target ID;Cosine Similarity;Jaro Similarity;Relevance
+Energen rasa kacang hijau;15391;Kopiko 3 in One;25812;0.9460979104042053;0.4393650793650794;0
+Energen rasa kacang hijau;15391;Kopiko Java Coffee;26106;0.9402600526809692;0.5086772486772486;0
+Energen rasa kacang hijau;15391;Energen rasa vanila;15125;0.9379922151565552;0.9031826625386997;1
+Energen rasa kacang hijau;15391;Energen On The Go Rasa Cokelat;15254;0.9369287490844727;0.8433333333333334;1
+Energen rasa kacang hijau;15391;Torabika Kopi Susu Espresso dengan Bubuk Kopi Espresso;45946;0.9363415837287903;0.5362962962962963;0
+Energen rasa kacang hijau;15391;Torabika Machiatto;46615;0.9341073036193848;0.5518518518518518;0
+Energen rasa kacang hijau;15391;Kopiko Brown Coffee As You Like;25898;0.9331519603729248;0.45569892473118284;0
+Energen rasa kacang hijau;15391;Cereal Energen Kacang Hijau;10893;0.9307224750518799;0.793515834675255;1
+Energen rasa kacang hijau;15391;Chitosan Oligosaccharide;10336;0.9303722381591797;0.5055555555555555;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Kukis Gulung Crispy Roll ;33283;0.9677934646606445;0.6037024658348188;0
+Nissin Wafer Krim Rasa Strawberry;32851;Khong Guan Biskuit Dengan Krim Susu Rose Cream ;24897;0.9652473330497742;0.6209703417150226;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Wafer Krim Rasa Pisang;33127;0.9644037485122681;0.9239289446185998;1
+Nissin Wafer Krim Rasa Strawberry;32851;Monde Party Time Cookies Aneka Rasa;31979;0.9642763137817383;0.6091630591630591;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Biskuit Kering ;33395;0.9640232920646667;0.6232323232323232;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Lovely Biskuit Rasa Mentega Salt Butter Biscuits ;33293;0.9612793326377869;0.6353368853368853;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Biskuit Sandwich Krim Rasa Pizza ;33406;0.9605451226234436;0.6558739569609134;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Krekers Krim Cream Crackers ;33153;0.9602308869361877;0.8303722943722944;1
+Nissin Wafer Krim Rasa Strawberry;32851;Monde Kukis;31367;0.9597769975662231;0.4646464646464647;0
+Nissin Wafer Krim Rasa Strawberry;32851;Nissin Texa Krekers;33410;0.9585639238357544;0.659117490696438;0
+John Farmer Peanut Pasta 16;23252;John Farmer Peanut Butter Creamy 16;23576;0.899757981300354;0.9065873015873015;1
+John Farmer Peanut Pasta 16;23252;John Farmer Cashew Butter Chunky;22699;0.8995668888092041;0.8487103174603174;1
+John Farmer Peanut Pasta 16;23252;John Farmer Peanut Butter Creamy 30;23596;0.8946365714073181;0.8795863395863397;1
+John Farmer Peanut Pasta 16;23252;John Farmer Peanut Pasta Chunky 05;23025;0.8945878148078918;0.932244008714597;1
+John Farmer Peanut Pasta 16;23252;John Farmer Peanut Butter Creamy 10;23568;0.8900509476661682;0.8931032896250288;1
+John Farmer Peanut Pasta 16;23252;John Farmer Almond Butter Chunky;22483;0.8886058926582336;0.8531481481481482;1
+John Farmer Peanut Pasta 16;23252;John Farmer Frappucinno Almond Butter Chunky;22407;0.8871484994888306;0.8356902356902357;1
+John Farmer Peanut Pasta 16;23252;John Farmer Hazelnut Pasta Chunky;22617;0.8865347504615784;0.8982323232323232;1
+John Farmer Peanut Pasta 16;23252;John Farmer Almond Pasta Mix Chunky 01;22344;0.8862029314041138;0.8479447410797526;1
+John Farmer Peanut Pasta 16;23252;John Farmer Peanut Pasta 01;23271;0.8857240080833435;0.9851851851851852;1
